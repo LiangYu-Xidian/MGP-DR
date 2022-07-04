@@ -1,0 +1,1364 @@
+DrugCombination_ID	Components_Name	Componets_ID
+DC000348	Bismuth Subsalicylate; Metronidazole; Tetracycline	DCC0187/DCC0235/DCC0338
+DC000349	Brimonidine; Timolol	DCC0072/DCC0106
+DC000350	Betamethasone; Calcipotriol	DCC0095/DCC0358
+DC000351	Betamethasone; Clotrimazole	DCC0033/DCC0095
+DC000352	Cerulenin; Levodopa	DCC0274/DCC0326
+DC000353	Chitosan; Heparin	DCC0296/DCC0466
+DC000354	Brompheniramine; Dextromethorphan; Pseudoephedrine	DCC0116/DCC0210/DCC0214
+DC000355	Budesonide; Formoterol	DCC0255/DCC0321
+DC000356	Efavirenz; Tenofovir	DCC0045/DCC0150
+DC000357	Efavirenz; Emtricitabine	DCC0150/DCC0225
+DC000358	Citicoline; Nimodipine	DCC0076/DCC0470
+DC000359	Bortezomib; Etoposide	DCC0016/DCC0191
+DC000360	Dasatinib; Oxaliplatin	DCC0120/DCC0330
+DC000361	Candesartan; Ramipril	DCC0015/DCC0198
+DC000362	Docetaxel; Irinotecan	DCC0189/DCC0329
+DC000363	Lopinavir; Saquinavir	DCC0324/DCC0351
+DC000364	Clioquinol; Docosahexaenoic acid; GW6471	DCC0368/DCC0428/DCC0453
+DC000365	Daptomycin; Rifampin	DCC0010/DCC0280
+DC000366	Gemcitabine; Gimeracil; Potassium oxonate; Tegafur	DCC0094/DCC0403/DCC0416/DCC0439
+DC000367	BQ-123; Enalapril	DCC0137/DCC0392
+DC000368	Cisplatin; Gimeracil; Potassium oxonate; Tegafur	DCC0117/DCC0403/DCC0416/DCC0439
+DC000369	Ampicillin; Daptomycin	DCC0010/DCC0083
+DC000370	Bevacizumab; Erlotinib	DCC0012/DCC0122
+DC000371	Gentamicin; Vancomycin	DCC0115/DCC0199
+DC000372	Bortezomib; Cytarabine; Dexamethasone	DCC0016/DCC0256/DCC0325
+DC000373	Paclitaxel; Peloruside A	DCC0323/DCC0471
+DC000374	Paclitaxel; Trabectedin	DCC0323/DCC0369
+DC000375	Discodermolide; Paclitaxel	DCC0323/DCC0389
+DC000376	Gimeracil; Irinotecan; Potassium oxonate; Tegafur	DCC0189/DCC0403/DCC0416/DCC0439
+DC000377	Gimeracil; Mitomycin; Potassium oxonate; Tegafur	DCC0046/DCC0403/DCC0416/DCC0439
+DC000378	Doxorubicin; Gimeracil; Potassium oxonate; Tegafur	DCC0259/DCC0403/DCC0416/DCC0439
+DC000379	Amphotericin B; Anidulafungin	DCC0068/DCC0170
+DC000380	Gimeracil; Paclitaxel; Potassium oxonate; Tegafur	DCC0323/DCC0403/DCC0416/DCC0439
+DC000381	Artemisinin; Curcumin	DCC0431/DCC0454
+DC000382	Fluorouracil; SC144	DCC0128/DCC0465
+DC000383	Oxaliplatin; SC144	DCC0120/DCC0465
+DC000384	Cisplatin; Gemcitabine	DCC0094/DCC0117
+DC000385	Mefloquine; Methylene blue	DCC0066/DCC0452
+DC000386	Aldesleukin; IL-27	DCC0006/DCC0482
+DC000387	Tretinoin; Trichostatin	DCC0186/DCC0451
+DC000388	Meropenem; Tobramycin	DCC0172/DCC0188
+DC000389	Propofol; Sevoflurane	DCC0206/DCC0327
+DC000390	Cisplatin; Lexatumumab	DCC0117/DCC0461
+DC000391	Ampicillin; Imipenem	DCC0083/DCC0350
+DC000392	CP55940; Dexmedetomidine	DCC0154/DCC0459
+DC000393	CP55940; Morphine	DCC0043/DCC0459
+DC000394	Diazoxide; Nitroprusside	DCC0054/DCC0300
+DC000395	Diazoxide; Dibutyryl-cGMP	DCC0300/DCC0441
+DC000396	Lopinavir; Rifampin; Ritonavir	DCC0114/DCC0280/DCC0351
+DC000397	Abacavir; Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203/DCC0281
+DC000398	Peginterferon alfa-2b; Ribavirin	DCC0003/DCC0203
+DC000399	Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203
+DC000400	Rifampin; Ritonavir; Saquinavir	DCC0114/DCC0280/DCC0324
+DC000401	Lonafarnib; Paclitaxel	DCC0323/DCC0412
+DC000402	Phenytoin; Valproic Acid	DCC0032/DCC0048
+DC000403	Abacavir; Efavirenz; Isoniazid; Pyrazinamide; Rifampin; Zidovudine	DCC0062/DCC0111/DCC0150/DCC0242/DCC0280/DCC0281
+DC000404	Paclitaxel; Tubacin	DCC0323/DCC0446
+DC000405	Ethosuximide; Valproic Acid	DCC0048/DCC0141
+DC000406	Ethambutol; Isoniazid; Pyrazinamide; Rifampin	DCC0056/DCC0062/DCC0242/DCC0280
+DC000407	17-DMAG; Arsenic trioxide	DCC0308/DCC0363
+DC000408	Doxorubicin; Mitomycin	DCC0046/DCC0259
+DC000409	Lamivudine; Nevirapine; Rifampin; Stavudine	DCC0030/DCC0161/DCC0179/DCC0280
+DC000410	Aplidine; Cytarabine	DCC0256/DCC0394
+DC000411	Clonidine; Dexmedetomidine	DCC0136/DCC0154
+DC000412	ABT-737; Cisplatin	DCC0117/DCC0462
+DC000413	ABT-737; Etoposide	DCC0191/DCC0462
+DC000414	Didanosine; Efavirenz; Lamivudine; Rifampin	DCC0150/DCC0179/DCC0228/DCC0280
+DC000415	Paclitaxel; Trichostatin	DCC0323/DCC0451
+DC000416	Dexketoprofen; Tramadol	DCC0018/DCC0398
+DC000417	Didanosine; Isoniazid; Lamivudine; Rifampin; Ritonavir; Saquinavir	DCC0114/DCC0179/DCC0228/DCC0242/DCC0280/DCC0324
+DC000418	Colistin; Imipenem	DCC0200/DCC0350
+DC000419	Bortezomib; Trastuzumab	DCC0008/DCC0016
+DC000420	Ec107fabI; Triclosan	DCC0376/DCC0472
+DC000421	Celecoxib; Emodin	DCC0105/DCC0442
+DC000422	Imatinib; Vorinostat	DCC0148/DCC0361
+DC000226	Gemifloxacin; Sulfamethoxazole; Trimethoprim	DCC0093/DCC0266/DCC0305
+DC000227	Epirubicin; Trastuzumab	DCC0008/DCC0096
+DC000228	Carboplatin; Rosiglitazone	DCC0082/DCC0245
+DC000229	Doxorubicin; Trastuzumab	DCC0008/DCC0259
+DC000230	Docetaxel; Trifluridine	DCC0088/DCC0329
+DC000231	Trastuzumab; Vinorelbine	DCC0008/DCC0067
+DC000232	Ifosfamide; Mesna	DCC0311/DCC0414
+DC000233	Cyclophosphamide; Trastuzumab	DCC0008/DCC0123
+DC000234	Sodium benzoate; Sodium phenylacetate	DCC0382/DCC0445
+DC000235	Latanoprost; Timolol	DCC0072/DCC0164
+DC000236	Carboplatin; Trastuzumab	DCC0008/DCC0245
+DC000237	Sulfamethoxazole; Trimethoprim	DCC0093/DCC0266
+DC000238	Brinzolamide; Timolol	DCC0072/DCC0314
+DC000239	Lomeguatrib; Temozolomide	DCC0215/DCC0411
+DC000240	Pyrimethamine; Sulfadoxine	DCC0023/DCC0339
+DC000241	Artemisinin; Naphthoquine	DCC0454/DCC0455
+DC000242	Irinotecan; Oxaliplatin	DCC0120/DCC0189
+DC000243	Midostaurin; Rapamycin	DCC0223/DCC0386
+DC000244	Cisplatin; Trabectedin	DCC0117/DCC0369
+DC000245	Cyclopentolate; Phenylephrine	DCC0075/DCC0254
+DC000246	Arsenic trioxide; Tanespimycin	DCC0308/DCC0456
+DC000247	Imatinib; Rapamycin	DCC0148/DCC0223
+DC000248	Carboplatin; Cetuximab; Paclitaxel	DCC0001/DCC0245/DCC0323
+DC000249	Cisplatin; Topotecan	DCC0117/DCC0271
+DC000250	Capecitabine; Docetaxel	DCC0295/DCC0329
+DC000251	Fluorouracil; Leucovorin; Methotrexate	DCC0128/DCC0131/DCC0162
+DC000252	Acetaminophen; Diclofenac	DCC0049/DCC0138
+DC000253	Meropenem; Valproic Acid	DCC0048/DCC0188
+DC000254	Cisplatin; Cyclophosphamide	DCC0117/DCC0123
+DC000255	Dextromethorphan; Promethazine	DCC0116/DCC0287
+DC000256	Diclofenac; Misoprostol	DCC0138/DCC0238
+DC000257	Dexbrompheniramine; Pseudoephedrine	DCC0081/DCC0214
+DC000258	Dextromethorphan; Guaifenesin	DCC0116/DCC0221
+DC000259	Cytarabine; Tanespimycin	DCC0256/DCC0456
+DC000260	Adalimumab; Methotrexate	DCC0007/DCC0131
+DC000261	Azithromycin; Imipenem	DCC0024/DCC0350
+DC000262	Fenretinide; Sodium butyrate	DCC0367/DCC0397
+DC000263	Amphotericin B; Ravuconazole	DCC0170/DCC0405
+DC000264	Amitriptyline; Perphenazine	DCC0053/DCC0213
+DC000265	Eucalyptol; Zidovudine	DCC0111/DCC0366
+DC000266	Aminophylline; Theophylline	DCC0039/DCC0322
+DC000267	Amoxicillin; Clavulanate	DCC0190/DCC0285
+DC000268	Doxorubicin; HPMA copolymer	DCC0259/DCC0473
+DC000269	Amoxicillin; Clarithromycin; Lansoprazole	DCC0097/DCC0285/DCC0318
+DC000270	Ciprofloxacin; Gatifloxacin	DCC0124/DCC0279
+DC000271	Cephalexin; Kanamycin	DCC0133/DCC0309
+DC000272	Etoposide; Tanespimycin	DCC0191/DCC0456
+DC000273	Bevacizumab; Paclitaxel	DCC0012/DCC0323
+DC000274	Indapamide; Perindopril	DCC0197/DCC0201
+DC000275	Gefitinib; Irinotecan	DCC0050/DCC0189
+DC000276	Fexofenadine; Probenecid	DCC0241/DCC0272
+DC000277	Clofarabine; Cytarabine	DCC0153/DCC0256
+DC000278	Erlotinib; Pemetrexed	DCC0122/DCC0158
+DC000279	Gabapentin; Morphine	DCC0043/DCC0258
+DC000280	Artemisinin; Methylene blue	DCC0452/DCC0454
+DC000281	Cetuximab; Fluorouracil	DCC0001/DCC0128
+DC000282	Amodiaquine; Artesunate	DCC0146/DCC0464
+DC000283	Pioglitazone; Vildagliptin	DCC0303/DCC0421
+DC000284	Amlodipine; Perindopril	DCC0073/DCC0197
+DC000285	Dipyridamole; Prednisolone	DCC0216/DCC0251
+DC000286	Ceftriaxone; VPR1020; Vancomycin	DCC0115/DCC0319/DCC0477
+DC000287	Cycloserine; Epigallocatechin	DCC0034/DCC0365
+DC000288	Dexamethasone; Lenalidomide	DCC0103/DCC0325
+DC000289	Enalapril; Nitrendipine	DCC0137/DCC0283
+DC000290	Cisplatin; Sabarubicin	DCC0117/DCC0415
+DC000291	Artemether; Lumefantrine	DCC0372/DCC0374
+DC000292	Amlodipine; Telmisartan	DCC0073/DCC0247
+DC000293	Loratadine; Montelukast	DCC0098/DCC0099
+DC000294	Enalapril; Lercanidipine	DCC0121/DCC0137
+DC000295	Bortezomib; Vorinostat	DCC0016/DCC0361
+DC000296	Bortezomib; Lonafarnib	DCC0016/DCC0412
+DC000297	Tamoxifen; Trastuzumab	DCC0008/DCC0168
+DC000298	CI-1040; Rapamycin	DCC0223/DCC0427
+DC000299	Amoxicillin; Sodium lauryl sulfate	DCC0205/DCC0285
+DC000300	Antazoline; Pheniramine	DCC0354/DCC0377
+DC000301	Aspirin; Dipyridamole	DCC0240/DCC0251
+DC000302	Atorvastatin; Proguanil	DCC0290/DCC0302
+DC000303	Atropine; Diphenoxylate	DCC0135/DCC0291
+DC000304	Atropine; Pralidoxime	DCC0135/DCC0183
+DC000305	Bacitracin; Hydrocortisone; Neomycin; Polymyxin B Sulfate	DCC0151/DCC0184/DCC0193/DCC0257
+DC000306	Doxorubicin; Trabectedin	DCC0259/DCC0369
+DC000307	Bevacizumab; Carboplatin; Paclitaxel	DCC0012/DCC0245/DCC0323
+DC000308	Cerivastatin; Gemfibrozil	DCC0092/DCC0328
+DC000309	Cyclophosphamide; Doxorubicin; Prednisone; Rituximab; Vincristine	DCC0009/DCC0123/DCC0126/DCC0156/DCC0259
+DC000310	Fluorouracil; Sorivudine	DCC0128/DCC0457
+DC000311	Ritonavir; Saquinavir	DCC0114/DCC0324
+DC000312	Heparin; Sodium caprate	DCC0296/DCC0379
+DC000313	Benzoyl peroxide; Erythromycin	DCC0020/DCC0468
+DC000314	Cyclosporine; Rosuvastatin	DCC0011/DCC0294
+DC000315	Benzoyl peroxide; Clindamycin	DCC0313/DCC0468
+DC000316	Ganciclovir; HSV thymidine kinase gene; Scopadulciol	DCC0262/DCC0393/DCC0474
+DC000317	Bacitracin; Polymyxin B Sulfate	DCC0151/DCC0193
+DC000318	Chlorpheniramine; Methamphetamine	DCC0298/DCC0347
+DC000319	Bacitracin; Neomycin; Polymyxin B Sulfate	DCC0151/DCC0193/DCC0257
+DC000322	Delavirdine; Nevirapine; Zidovudine	DCC0030/DCC0111/DCC0178
+DC000323	Paclitaxel; Vitamin B12CN	DCC0013/DCC0323
+DC000324	Gefitinib; PD98059	DCC0050/DCC0402
+DC000325	Polymyxin B Sulfate; Sulfamethoxazole; Trimethoprim	DCC0093/DCC0193/DCC0266
+DC000326	Dasatinib; Midostaurin	DCC0330/DCC0386
+DC000327	Lamivudine; Tenofovir	DCC0045/DCC0179
+DC000328	Cisplatin; Trastuzumab	DCC0008/DCC0117
+DC000329	Glatiramer Acetate; Minocycline	DCC0268/DCC0370
+DC000330	Miconazole; Polymyxin B Sulfate	DCC0193/DCC0297
+DC000331	Imatinib; L744832	DCC0148/DCC0384
+DC000332	Genistein; Sorafenib	DCC0079/DCC0355
+DC000320	Ganciclovir; HSV thymidine kinase gene; Ponicidin	DCC0262/DCC0444/DCC0474
+DC000321	Laropiprant; Niacin	DCC0152/DCC0448
+DC000333	1,2,4-trioxolane; Artemether; Praziquantel	DCC0284/DCC0372/DCC0423
+DC000334	Gefitinib; Taxane	DCC0050/DCC0400
+DC000335	Capecitabine; Oxaliplatin	DCC0120/DCC0295
+DC000336	Artesunate; Praziquantel; Tribendimidine	DCC0284/DCC0383/DCC0464
+DC000337	NU6140; Paclitaxel	DCC0323/DCC0430
+DC000338	Bupropion; Naltrexone	DCC0177/DCC0306
+DC000339	Glimepiride; Metformin; Rosiglitazone	DCC0027/DCC0057/DCC0082
+DC000340	Carboplatin; Sorafenib	DCC0079/DCC0245
+DC000341	Cyclophosphamide; Paclitaxel	DCC0123/DCC0323
+DC000342	Bevacizumab; Sunitinib	DCC0012/DCC0336
+DC000343	Beclomethasone; Formoterol	DCC0077/DCC0255
+DC000344	Azithromycin; Ceftazidime	DCC0024/DCC0091
+DC000345	Bimatoprost; Timolol	DCC0072/DCC0230
+DC000346	Tanespimycin; U0126	DCC0380/DCC0456
+DC000347	ABT-737; Dexamethasone	DCC0325/DCC0462
+DC000438	Gabapentin; Tiagabine	DCC0231/DCC0258
+DC000439	Aliskiren; Irbesartan	DCC0270/DCC0331
+DC000440	Mizoribine; Mycophenolate mofetil	DCC0173/DCC0440
+DC000441	Lamotrigine; Topiramate	DCC0037/DCC0129
+DC000442	Alagebrium; Ramipril	DCC0015/DCC0424
+DC000443	Carbamazepine; Topiramate	DCC0037/DCC0132
+DC000444	AEE788; Everolimus	DCC0348/DCC0437
+DC000445	Topiramate; Valproic Acid	DCC0037/DCC0048
+DC000446	Diphenhydramine; Theophylline	DCC0039/DCC0289
+DC000447	Oxcarbazepine; Topiramate	DCC0037/DCC0192
+DC000448	Levetiracetam; Topiramate	DCC0037/DCC0316
+DC000449	Decitabine; Depsipeptide	DCC0334/DCC0390
+DC000450	Adarotene; Gefitinib	DCC0050/DCC0436
+DC000451	Fluorouracil; RPR-115135	DCC0128/DCC0409
+DC000452	Carbamazepine; Lamotrigine	DCC0129/DCC0132
+DC000453	Fusidic Acid; Rifampin	DCC0280/DCC0362
+DC000454	Dipropofol; Vancomycin	DCC0115/DCC0418
+DC000455	Tipifarnib; Zoledronate	DCC0080/DCC0410
+DC001080	Exenatide; Metformin	DCC0057/DCC1560
+DC001086	Abacavir; Atazanavir; Lamivudine; Ritonavir	DCC0114/DCC0179/DCC0281/DCC1489
+DC001087	Anakinra; Dexamethasone	DCC0325/DCC1122
+DC001090	Didanosine; Lopinavir; Nevirapine; Ritonavir; Zidovudine	DCC0030/DCC0111/DCC0114/DCC0228/DCC0351
+DC001093	Dasatinib; Docetaxel; Prednisone	DCC0156/DCC0329/DCC0330
+DC001095	Bevacizumab; Capecitabine; Cyclophosphamide; Docetaxel; Doxorubicin	DCC0012/DCC0123/DCC0259/DCC0295/DCC0329
+DC001097	Fluticasone Propionate; Montelukast; Salmeterol	DCC0099/DCC0139/DCC0239
+DC001100	Mycophenolate acid; Prednisone; Tacrolimus	DCC0156/DCC0218/DCC1477
+DC001130	Cyclosporine; Mycophenolate mofetil; Prednisone	DCC0011/DCC0156/DCC0173
+DC001156	Carboplatin; Cetuximab; Cisplatin; Fluorouracil	DCC0001/DCC0117/DCC0128/DCC0245
+DC001170	Bisoprolol; Telmisartan	DCC0145/DCC0247
+DC001172	Bevacizumab; Fluorouracil; Leucovorin; Oxaliplatin	DCC0012/DCC0120/DCC0128/DCC0162
+DC001178	Cyclophosphamide; Fludarabine; Ibritumomab tiuxetan; Rituximab	DCC0009/DCC0123/DCC0288/DCC0640
+DC001180	Solifenacin; Trospium chloride	DCC1204/DCC1595
+DC001187	Brinzolamide; Latanoprost	DCC0164/DCC0314
+DC001201	Busulfan; Fludarabine; Melphalan	DCC0278/DCC0288/DCC1471
+DC001222	Bupivacaine; Epinephrine; Fentanyl	DCC0044/DCC0166/DCC0204
+DC001228	Cyclophosphamide; Fludarabine; Rituximab	DCC0009/DCC0123/DCC0288
+DC001236	Arsenic trioxide; Tretinoin	DCC0186/DCC0308
+DC001240	Solifenacin; Tamsulosin	DCC1361/DCC1595
+DC001246	Lamivudine; Nevirapine; Zidovudine	DCC0030/DCC0111/DCC0179
+DC000456	Benazepril; Hydrochlorothiazide	DCC0127/DCC0260
+DC000457	Aliskiren; Hydrochlorothiazide	DCC0260/DCC0331
+DC000458	Amlodipine; Atorvastatin	DCC0073/DCC0290
+DC000459	Fosinopril; Hydrochlorothiazide	DCC0109/DCC0260
+DC000460	Guaifenesin; Pseudoephedrine	DCC0214/DCC0221
+DC000461	Homatropine Methylbromide; Hydrocodone	DCC0182/DCC0243
+DC000462	Amlodipine; Benazepril	DCC0073/DCC0127
+DC000463	Amlodipine; Olmesartan	DCC0038/DCC0073
+DC000464	Amiloride; Hydrochlorothiazide	DCC0142/DCC0260
+DC000465	Bendroflumethiazide; Nadolol	DCC0090/DCC0317
+DC000466	Cisplatin; Irinotecan	DCC0117/DCC0189
+DC000467	2-methoxyestradiol; Doxorubicin	DCC0259/DCC0426
+DC000468	2-methoxyestradiol; Cisplatin	DCC0117/DCC0426
+DC000469	2-methoxyestradiol; Paclitaxel	DCC0323/DCC0426
+DC000470	Albendazole; Prednisolone	DCC0118/DCC0216
+DC000471	Everolimus; Tacrolimus	DCC0218/DCC0348
+DC000472	Beta-lapachone; Isoniazid	DCC0242/DCC0432
+DC000473	Letrozole; Norethindrone	DCC0180/DCC0264
+DC000474	Paclitaxel; Toremifene	DCC0125/DCC0323
+DC000475	Doxorubicin; Zoledronate	DCC0080/DCC0259
+DC000476	Hydrochlorothiazide; Lisinopril	DCC0181/DCC0260
+DC000477	Hydrochlorothiazide; Losartan	DCC0169/DCC0260
+DC000478	Hydrochlorothiazide; Methyldopa	DCC0249/DCC0260
+DC000479	Hydrochlorothiazide; Metoprolol	DCC0036/DCC0260
+DC000480	Amlodipine; Valsartan	DCC0014/DCC0073
+DC000481	Hydralazine; Isosorbide Dinitrate	DCC0227/DCC0337
+DC000482	Hydrochlorothiazide; Irbesartan	DCC0260/DCC0270
+DC000483	Hydrochlorothiazide; Olmesartan	DCC0038/DCC0260
+DC000484	Hydrochlorothiazide; Propranolol	DCC0134/DCC0260
+DC000485	Hydrochlorothiazide; Quinapril	DCC0226/DCC0260
+DC000486	DispersinB; Triclosan	DCC0376/DCC0481
+DC000487	Amikacin; Tigecycline	DCC0102/DCC0130
+DC000488	Levofloxacin; Tigecycline	DCC0130/DCC0304
+DC000489	Colistin; Tigecycline	DCC0130/DCC0200
+DC000490	Imipenem; Tigecycline	DCC0130/DCC0350
+DC000491	Doxorubicin; NGR-hTNF	DCC0259/DCC0478
+DC000492	Amantadine; Oseltamivir; Ribavirin	DCC0019/DCC0203/DCC0234
+DC000493	Ciprofloxacin; Trimethoprim	DCC0093/DCC0124
+DC000494	Isoniazid; Linezolid; Rifampin	DCC0144/DCC0242/DCC0280
+DC000495	Propofol; Remifentanil	DCC0206/DCC1432
+DC000504	Ampicillin; Gentamicin	DCC0083/DCC0199
+DC000509	Benzoyl peroxide; Clindamycin; Tazarotene	DCC0313/DCC0468/DCC1400
+DC000514	Esomeprazole; Metronidazole; Tetracycline	DCC0187/DCC0235/DCC1377
+DC000519	Clobetasol; Ketoconazole	DCC1474/DCC1478
+DC000522	Capecitabine; Irinotecan	DCC0189/DCC0295
+DC000531	Escitalopram; Lisdexamfetamine	DCC1524/DCC1551
+DC000539	Epinephrine; Ketorolac; Morphine; Ropivacaine	DCC0043/DCC0166/DCC0920/DCC1238
+DC000543	Mycophenolate mofetil; Rapamycin	DCC0173/DCC0223
+DC000558	Amoxicillin; Clavulanate; Piperacillin; Tazobactam	DCC0052/DCC0190/DCC0285/DCC0352
+DC000561	Nateglinide; Valsartan	DCC0014/DCC1374
+DC000566	Cyclophosphamide; Docetaxel; Epirubicin; Lapatinib	DCC0096/DCC0123/DCC0329/DCC0332
+DC000573	Amantadine; Interferon alfa-2b; Ribavirin	DCC0203/DCC0234/DCC1165
+DC000581	Cyclophosphamide; Doxorubicin; Etoposide; Rituximab; Vincristine	DCC0009/DCC0123/DCC0126/DCC0191/DCC0259
+DC000583	Enoxaparin; Warfarin	DCC0171/DCC1542
+DC000594	Cetuximab; Gemcitabine	DCC0001/DCC0094
+DC000601	Isoniazid; Rifapentine	DCC0242/DCC1534
+DC000610	Rapamycin; Tirofiban	DCC0223/DCC1396
+DC000611	Idarubicin; Mercaptopurine; Methotrexate; Tretinoin	DCC0131/DCC0186/DCC0273/DCC1525
+DC000616	Cyclophosphamide; Doxorubicin; Paclitaxel; Trastuzumab	DCC0008/DCC0123/DCC0259/DCC0323
+DC000623	Rosiglitazone; Saxagliptin	DCC0082/DCC1680
+DC000629	Mycophenolate mofetil; Prednisone; Rituximab	DCC0009/DCC0156/DCC0173
+DC000649	Lapatinib; Paclitaxel	DCC0323/DCC0332
+DC000652	Cisplatin; Doxorubicin	DCC0117/DCC0259
+DC000654	Cerebrolysin; Donepezil	DCC0573/DCC1414
+DC000664	Atazanavir; Raltegravir	DCC0802/DCC1489
+DC000690	Albendazole; Ivermectin; Praziquantel	DCC0118/DCC0284/DCC1330
+DC000697	Risperidoene; Valproic Acid	DCC0048/DCC1376
+DC000699	Bortezomib; Melphalan; Prednisone	DCC0016/DCC0156/DCC0278
+DC000703	Dacarbazine; Temozolomide	DCC0215/DCC1417
+DC000705	Midodrine; Octreotide	DCC1164/DCC1205
+DC000713	Bevacizumab; Fluorouracil; Irinotecan; Leucovorin	DCC0012/DCC0128/DCC0162/DCC0189
+DC000720	Norepinephrine; Terlipressin	DCC1259/DCC1614
+DC000725	Capecitabine; Paclitaxel	DCC0295/DCC0323
+DC000730	Conjugated Estrogen; Tolterodine	DCC0552/DCC1479
+DC000743	Fluoxetine; Quetiapine; Venlafaxine	DCC0100/DCC1231/DCC1541
+DC000747	Neratinib; Vinorelbine	DCC0067/DCC0904
+DC000750	Lovaza; Simvastatin	DCC0157/DCC0859
+DC000754	Cyclophosphamide; Doxorubicin; Neratinib; Paclitaxel; Trastuzumab	DCC0008/DCC0123/DCC0259/DCC0323/DCC0904
+DC000755	Bevacizumab; Fluorouracil; Irinotecan	DCC0012/DCC0128/DCC0189
+DC000756	Calcium carbonate; Cholecalciferol	DCC0887/DCC1705
+DC000758	Etoposide; Ifosfamide; Pegfilgrastim; Rituximab; Sargramostim	DCC0009/DCC0191/DCC0311/DCC1120/DCC1121
+DC000761	Insulin; Isophane insulin	DCC1124/DCC1749
+DC000762	Atazanavir; Ritonavir; Telaprevir	DCC0114/DCC1489/DCC1658
+DC000764	Albinterferon alfa-2b; Ribavirin	DCC0203/DCC0784
+DC000766	Basiliximab; Cyclosporine; Mycophenolate mofetil	DCC0011/DCC0173/DCC1149
+DC000770	Dapagliflozin; Metformin	DCC0057/DCC0779
+DC000772	Cetuximab; Fluorouracil; Irinotecan; Leucovorin	DCC0001/DCC0128/DCC0162/DCC0189
+DC000773	Fingolimod; Pegylated interferon beta	DCC0378/DCC0601
+DC000775	Fluticasone Propionate; GSK2190915; Salmeterol	DCC0139/DCC0239/DCC0969
+DC000778	Acetylcysteine; Deferoxamine	DCC1384/DCC1662
+DC000779	Fulvestrant; Tipifarnib	DCC0410/DCC1450
+DC000781	Pegylated interferon beta; Teriflunomide	DCC1733/DCC0601
+DC000782	Oxycodone; Pregabalin	DCC0112/DCC1210
+DC000794	Capecitabine; Sunitinib	DCC0295/DCC0336
+DC000807	Epinephrine; Ketorolac; Ropivacaine	DCC0166/DCC0920/DCC1238
+DC000813	Docetaxel; Vandetanib	DCC0329/DCC1657
+DC000834	Cisplatin; Docetaxel; Pemetrexed	DCC0117/DCC0158/DCC0329
+DC000854	Azacitidine; Tretinoin; Valproic Acid	DCC0048/DCC0186/DCC1443
+DC000859	Arsenic trioxide; Cytarabine; Daunorubicin; Mercaptopurine; Methotrexate; Tretinoin	DCC0131/DCC0186/DCC0256/DCC0273/DCC0308/DCC1357
+DC000863	Clobazam; Clonazepam; Tolterodine	DCC1252/DCC1479/DCC1488
+DC000867	ABT-751; Pemetrexed	DCC0158/DCC0596
+DC000875	Ethambutol; Moxifloxacin; Pyrazinamide; Rifampin	DCC0056/DCC0062/DCC0280/DCC1208
+DC000890	Deferiprone; Deferoxamine	DCC1384/DCC1723
+DC000891	Fluorouracil; Leucovorin; Oxaliplatin; Panitumumab	DCC0120/DCC0128/DCC0162/DCC1555
+DC000898	Cyclophosphamide; Pixantrone; Prednisone; Rituximab; Vincristine	DCC0009/DCC0123/DCC0126/DCC0156/DCC0949
+DC000901	Atorvastatin; Ezetimibe	DCC0250/DCC0290
+DC000912	Docetaxel; Zibotentan	DCC0329/DCC0652
+DC000919	Amphotericin B; Deferasirox	DCC0170/DCC1599
+DC000922	Meropenem; Moxifloxacin	DCC0188/DCC1208
+DC000926	Amodiaquine; Artesunate; Primaquine	DCC0146/DCC0464/DCC1493
+DC000931	Lubiprostone; Polyethylene glycol	DCC0705/DCC1482
+DC000947	Abacavir; Lamivudine; Lopinavir; Ritonavir	DCC0114/DCC0179/DCC0281/DCC0351
+DC000951	Folic acid; Methotrexate; Methylprednisolone; Rituximab	DCC0009/DCC0131/DCC1183/DCC1454
+DC000956	Alogliptin; Metformin; Pioglitazone	DCC0057/DCC0303/DCC0371
+DC000966	Iplex; Somatokine	DCC1105/DCC1561
+DC000967	Arformoterol; Tiotropium	DCC1559/DCC1584
+DC000969	Abacavir; Atazanavir; Lamivudine	DCC0179/DCC0281/DCC1489
+DC000971	Carboplatin; Cetuximab; Fluorouracil	DCC0001/DCC0128/DCC0245
+DC000980	Glimepiride; Metformin; Sitagliptin	DCC0027/DCC0057/DCC0333
+DC000988	Decitabine; Romiplostim	DCC0334/DCC0717
+DC000995	Defibrotide; Melphalan; Prednisone; Thalidomide	DCC0156/DCC0277/DCC0278/DCC1649
+DC000998	Aprepitant; Dexamethasone; Fosaprepitant; Ondansetron	DCC0325/DCC1351/DCC1434/DCC1702
+DC001002	Avibactam; Ceftazidime; Metronidazole	DCC0091/DCC0235/DCC0547
+DC001016	Glipizide; Metformin; Pioglitazone; Sitagliptin	DCC0057/DCC0286/DCC0303/DCC0333
+DC001017	Cetuximab; Docetaxel	DCC0001/DCC0329
+DC001019	Atazanavir; Emtricitabine; Ritonavir; Tenofovir	DCC0045/DCC0114/DCC0225/DCC1489
+DC001030	Fluorouracil; Leucovorin	DCC0128/DCC0162
+DC001041	Amiloride; Chlorthalidone	DCC0047/DCC0142
+DC001044	Cyclophosphamide; Dexamethasone; Doxorubicin; Melphalan; Prednisone; Vincristine	DCC0123/DCC0126/DCC0156/DCC0259/DCC0278/DCC0325
+DC001046	Abciximab; Reteplase	DCC1117/DCC1137
+DC001054	Bevacizumab; Capecitabine	DCC0012/DCC0295
+DC001057	Cetuximab; Fluorouracil; Leucovorin; Oxaliplatin	DCC0001/DCC0120/DCC0128/DCC0162
+DC001058	Emtricitabine; Lopinavir; Ritonavir; Tenofovir	DCC0045/DCC0114/DCC0225/DCC0351
+DC001070	Docetaxel; Trastuzumab	DCC0008/DCC0329
+DC001072	Bendamustine; Bortezomib; Rituximab	DCC0009/DCC0016/DCC0628
+DC001074	Interferon beta 1a; Methylprednisolone	DCC1140/DCC1454
+DC001077	Hydroxychloroquine; Methotrexate; Sulfasalazine	DCC0131/DCC1399/DCC1601
+DC000423	Lamotrigine; Valproic Acid	DCC0048/DCC0129
+DC000424	3-BROP; Rapamycin	DCC0223/DCC0381
+DC000425	Gabapentin; Valproic Acid	DCC0048/DCC0258
+DC000426	Carbamazepine; Gabapentin	DCC0132/DCC0258
+DC000427	Cimetidine; Fexofenadine	DCC0113/DCC0241
+DC000428	Diclofenac; Tetracycline	DCC0138/DCC0187
+DC000429	Naproxen; Tetracycline	DCC0187/DCC0196
+DC000430	Fenofibrate; Simvastatin	DCC0157/DCC0276
+DC000431	Erythromycin; Penicillin V	DCC0020/DCC0084
+DC000432	Levetiracetam; Oxcarbazepine	DCC0192/DCC0316
+DC000433	Lapatinib; Topotecan	DCC0271/DCC0332
+DC000434	Iloprost; Sildenafil	DCC0022/DCC0293
+DC000435	Gabapentin; Oxcarbazepine	DCC0192/DCC0258
+DC000436	Aliskiren; Ramipril	DCC0015/DCC0331
+DC000437	Dexmedetomidine; ST-91	DCC0154/DCC0433
+DC000019	Articaine hydrochloride; Epinephrine	DCC0166/DCC0417
+DC000020	Diphenhydramine; Ibuprofen	DCC0282/DCC0289
+DC000021	Interferon; Tamoxifen	DCC0168/DCC0480
+DC000022	Amoxicillin; Omeprazole	DCC0061/DCC0285
+DC000023	Clofazimine; Ethambutol; Isoniazid; Rifabutin	DCC0056/DCC0147/DCC0212/DCC0242
+DC000024	Cisplatin; Cytarabine	DCC0117/DCC0256
+DC000025	Methotrexate; Rabeprazole	DCC0131/DCC0301
+DC000026	Atovaquone; Proguanil	DCC0299/DCC0302
+DC000027	Aspirin; Caffeine; Orphenadrine	DCC0021/DCC0240/DCC0310
+DC000028	Colistin; Nystatin; Pipemidic acid	DCC0159/DCC0200/DCC0443
+DC000029	Altretamine; Cisplatin; Cyclophosphamide; Fluorouracil	DCC0108/DCC0117/DCC0123/DCC0128
+DC000030	Diazepam; Fentanyl	DCC0204/DCC0209
+DC000195	Alogliptin; Glyburide	DCC0267/DCC0371
+DC000196	Piperacillin; Tazobactam	DCC0052/DCC0352
+DC000197	Polymyxin B Sulfate; Trimethoprim	DCC0093/DCC0193
+DC000198	Prednisolone; Sulfacetamide	DCC0155/DCC0216
+DC000199	Lamotrigine; Oxcarbazepine	DCC0129/DCC0192
+DC000200	Cisplatin; Phenoxodiol	DCC0117/DCC0458
+DC000201	Clindamycin; Tretinoin	DCC0186/DCC0313
+DC000202	Gemfibrozil; Rosuvastatin	DCC0294/DCC0328
+DC000203	"2'-Deoxyinosine; Fluorouracil"	DCC0128/DCC0360
+DC000204	Doxorubicin; Paclitaxel	DCC0259/DCC0323
+DC000205	Chlorpheniramine; Pseudoephedrine	DCC0214/DCC0298
+DC000206	Chlorpheniramine; Hydrocodone	DCC0243/DCC0298
+DC000207	Cilastatin; Imipenem	DCC0349/DCC0350
+DC000208	Clavulanate; Ticarcillin	DCC0190/DCC0353
+DC000209	Fexofenadine; Pseudoephedrine	DCC0214/DCC0241
+DC000210	Desloratadine; Pseudoephedrine	DCC0214/DCC0248
+DC000211	Colchicine; Probenecid	DCC0272/DCC0342
+DC000212	Bortezomib; Lenalidomide	DCC0016/DCC0103
+DC000213	Codeine; Pseudoephedrine; Triprolidine	DCC0051/DCC0087/DCC0214
+DC000214	Adapalene; Benzoyl peroxide	DCC0025/DCC0468
+DC000215	Codeine; Promethazine	DCC0051/DCC0287
+DC000216	Cisplatin; Temozolomide	DCC0117/DCC0215
+DC000217	Codeine; Phenylephrine; Promethazine	DCC0051/DCC0075/DCC0287
+DC000218	Cisplatin; Rapamycin	DCC0117/DCC0223
+DC000219	Methotrexate; Pantoprazole	DCC0026/DCC0131
+DC000220	Lapatinib; Letrozole	DCC0264/DCC0332
+DC000221	Lamivudine; Nevirapine; Stavudine	DCC0030/DCC0161/DCC0179
+DC000222	Carboplatin; Docetaxel; Trastuzumab	DCC0008/DCC0245/DCC0329
+DC000223	Pseudoephedrine; Triprolidine	DCC0087/DCC0214
+DC000224	Methylseleninic acid; Tamoxifen	DCC0168/DCC0422
+DC000225	Gemcitabine; Trastuzumab	DCC0008/DCC0094
+DC000031	Cisplatin; Doxorubicin; Fluorouracil	DCC0117/DCC0128/DCC0259
+DC000032	Captopril; Hydrochlorothiazide	DCC0260/DCC0315
+DC000033	Aspirin; Oxycodone	DCC0112/DCC0240
+DC000034	Candesartan; Hydrochlorothiazide	DCC0198/DCC0260
+DC000035	Aspirin; Carisoprodol	DCC0078/DCC0240
+DC000036	Aspirin; Meprobamate	DCC0071/DCC0240
+DC000037	Naproxen; Sumatriptan	DCC0167/DCC0196
+DC000038	Aspirin; Butalbital; Caffeine	DCC0021/DCC0031/DCC0240
+DC000039	Aspirin; Carisoprodol; Codeine	DCC0051/DCC0078/DCC0240
+DC000040	Aspirin; Butalbital; Caffeine; Codeine	DCC0021/DCC0031/DCC0051/DCC0240
+DC000041	Aspirin; Dihydrocodeine	DCC0240/DCC0346
+DC000042	Hydrochlorothiazide; Telmisartan	DCC0247/DCC0260
+DC000043	Hydrochlorothiazide; Spironolactone	DCC0085/DCC0260
+DC000044	Hydrochlorothiazide; Valsartan	DCC0014/DCC0260
+DC000045	Hydrochlorothiazide; Triamterene	DCC0074/DCC0260
+DC000046	Enalapril; Felodipine	DCC0137/DCC0269
+DC000047	Trandolapril; Verapamil	DCC0119/DCC0165
+DC000048	Aspirin; Methocarbamol	DCC0086/DCC0240
+DC000049	Eprosartan; Hydrochlorothiazide	DCC0222/DCC0260
+DC000050	Enalapril; Hydrochlorothiazide	DCC0137/DCC0260
+DC000051	Flavopiridol; Phorbol 12-myristate-13-acetate	DCC0364/DCC0401
+DC000052	Ceftazidime; Pefloxacin	DCC0091/DCC0107
+DC000053	Garenoxacin; Piperacillin; Tazobactam	DCC0052/DCC0352/DCC0413
+DC000054	Amikacin; Garenoxacin	DCC0102/DCC0413
+DC000055	Aztreonam; Garenoxacin	DCC0065/DCC0413
+DC000056	Atenolol; Chlorthalidone	DCC0047/DCC0060
+DC000057	Caffeine; Ergotamine	DCC0021/DCC0175
+DC000058	Hydrocodone; Ibuprofen	DCC0243/DCC0282
+DC000059	Clozapine; Fluoxetine	DCC0069/DCC0100
+DC000060	Didanosine; Indinavir; Zidovudine	DCC0028/DCC0111/DCC0228
+DC000061	Acetaminophen; Ketoprofen	DCC0049/DCC0265
+DC000062	Amikacin; Ceftriaxone	DCC0102/DCC0319
+DC000063	Amikacin; Ceftazidime	DCC0091/DCC0102
+DC000064	Amitriptyline; Chlordiazepoxide	DCC0053/DCC0101
+DC000065	Ipratropium; Salbutamol	DCC0058/DCC0261
+DC000066	Acrivastine; Pseudoephedrine	DCC0214/DCC0463
+DC000067	Hydrocortisone; Pramoxine hydrochloride	DCC0184/DCC0395
+DC000068	Acetaminophen; Dexbrompheniramine; Pseudoephedrine	DCC0049/DCC0081/DCC0214
+DC000069	Acetaminophen; Clemastine; Pseudoephedrine	DCC0041/DCC0049/DCC0214
+DC000070	Loratadine; Pseudoephedrine	DCC0098/DCC0214
+DC000071	Ibuprofen; Oxycodone	DCC0112/DCC0282
+DC000072	Naloxone; Pentazocine	DCC0163/DCC0312
+DC000073	Dorzolamide; Timolol	DCC0072/DCC0219
+DC000074	Ciprofloxacin; Dexamethasone	DCC0124/DCC0325
+DC000075	Ciprofloxacin; Hydrocortisone	DCC0124/DCC0184
+DC000076	Bisoprolol; Hydrochlorothiazide	DCC0145/DCC0260
+DC000077	Hydrocortisone; Oxytetracycline	DCC0143/DCC0184
+DC000078	Hydrocortisone; Neomycin; Polymyxin B Sulfate	DCC0184/DCC0193/DCC0257
+DC000079	Colistin; Hydrocortisone; Neomycin; Thonzonium bromide	DCC0184/DCC0200/DCC0257/DCC0447
+DC000080	Dexamethasone; Tobramycin	DCC0172/DCC0325
+DC000081	Dextromethorphan; Tropicamide	DCC0116/DCC0202
+DC000082	Ibuprofen; Pseudoephedrine	DCC0214/DCC0282
+DC000083	Arzoxifene; LG100268	DCC0357/DCC0404
+DC000084	Cisplatin; Docetaxel; Fluorouracil	DCC0117/DCC0128/DCC0329
+DC000085	Raclopride; Topiramate	DCC0037/DCC0460
+DC000086	Methdilazine; Prochlorperazine	DCC0089/DCC0229
+DC000087	Amlodipine; Streptomycin	DCC0073/DCC0292
+DC000088	Fludarabine; Rituximab	DCC0009/DCC0288
+DC000089	Gefitinib; Trastuzumab	DCC0008/DCC0050
+DC000090	Endomorphin-1; Kynurenic acid	DCC0408/DCC0435
+DC000091	Amoxicillin; Clarithromycin; Lafutidine	DCC0285/DCC0318/DCC0385
+DC000092	Dexmedetomidine; Endomorphin-1	DCC0154/DCC0408
+DC000093	Cytarabine; Trimidox	DCC0256/DCC0469
+DC000094	Endomorphin-1; Ketamine	DCC0320/DCC0408
+DC000095	Cefepime; Garenoxacin	DCC0344/DCC0413
+DC000096	Carboplatin; Paclitaxel; Sorafenib	DCC0079/DCC0245/DCC0323
+DC000097	Garenoxacin; Imipenem	DCC0350/DCC0413
+DC000098	Abacavir; Lamivudine; Zidovudine	DCC0111/DCC0179/DCC0281
+DC000099	Bortezomib; Dexamethasone; Thalidomide	DCC0016/DCC0277/DCC0325
+DC000100	Abacavir; Lamivudine	DCC0179/DCC0281
+DC000101	Lamivudine; Zidovudine	DCC0111/DCC0179
+DC000102	Bevacizumab; Cetuximab	DCC0001/DCC0012
+DC000103	Lopinavir; Ritonavir	DCC0114/DCC0351
+DC000104	Atorvastatin; Torcetrapib	DCC0290/DCC0419
+DC000105	Efavirenz; Emtricitabine; Tenofovir	DCC0045/DCC0150/DCC0225
+DC000106	Hydroxyurea; Magnesium pidolate	DCC0263/DCC0391
+DC000107	Emtricitabine; Tenofovir	DCC0045/DCC0225
+DC000108	Cyclosporine; Rapamycin	DCC0011/DCC0223
+DC000109	Lidocaine; Tetracaine	DCC0040/DCC0467
+DC000110	Acetaminophen; Aspirin; Codeine	DCC0049/DCC0051/DCC0240
+DC000111	Lidocaine; Prilocaine	DCC0040/DCC0185
+DC000112	Acetaminophen; Aspirin; Caffeine	DCC0021/DCC0049/DCC0240
+DC000113	Lovastatin; Niacin	DCC0029/DCC0152
+DC000114	Loteprednol Etabonate; Tobramycin	DCC0172/DCC0220
+DC000115	Acetaminophen; Butalbital	DCC0031/DCC0049
+DC000116	Isoniazid; Rifampin	DCC0242/DCC0280
+DC000117	Isoniazid; Pyrazinamide; Rifampin	DCC0062/DCC0242/DCC0280
+DC000118	Levonordefrin; Mepivacaine	DCC0246/DCC0373
+DC000119	Lansoprazole; Naproxen	DCC0097/DCC0196
+DC000120	Metformin; Pioglitazone	DCC0057/DCC0303
+DC000121	Metformin; Repaglinide	DCC0057/DCC0233
+DC000122	Niacin; Simvastatin	DCC0152/DCC0157
+DC000123	PA-824; Pyrazinamide	DCC0062/DCC0407
+DC000124	LY294002 ; Roscovitine	DCC0396/DCC0406
+DC000125	Atenolol; Fingolimod	DCC0060/DCC0378
+DC000126	Celecoxib; Perifosine	DCC0105/DCC0399
+DC000127	Diltiazem; Fingolimod	DCC0064/DCC0378
+DC000128	Doxorubicin; Metformin	DCC0057/DCC0259
+DC000129	PA-824; Pyrazinamide; Rifampin	DCC0062/DCC0280/DCC0407
+DC000130	Caffeine; Indomethacin; Prochlorperazine	DCC0021/DCC0055/DCC0089
+DC000131	Asparaginase; Dexamethasone; Topotecan; Vincristine	DCC0004/DCC0126/DCC0271/DCC0325
+DC000132	Paclitaxel; Trastuzumab	DCC0008/DCC0323
+DC000133	Capecitabine; Cisplatin; Trastuzumab	DCC0008/DCC0117/DCC0295
+DC000134	Fluorouracil; Raloxifene; Trimetrexate	DCC0104/DCC0128/DCC0307
+DC000135	Bortezomib; Melphalan; Prednisone; Thalidomide	DCC0016/DCC0156/DCC0277/DCC0278
+DC000136	Acetaminophen; Codeine	DCC0049/DCC0051
+DC000137	Azithromycin; Mercaptopurine	DCC0024/DCC0273
+DC000138	Acetaminophen; Caffeine; Dihydrocodeine	DCC0021/DCC0049/DCC0346
+DC000139	Afatinib; Cetuximab	DCC0001/DCC0429
+DC000140	Acetaminophen; Butalbital; Caffeine; Codeine	DCC0021/DCC0031/DCC0049/DCC0051
+DC000141	Acetaminophen; Butalbital; Caffeine	DCC0021/DCC0031/DCC0049
+DC000142	Acetaminophen; Propoxyphene	DCC0049/DCC0160
+DC000143	Clarithromycin; Rifampin	DCC0280/DCC0318
+DC000144	Acetaminophen; Pentazocine	DCC0049/DCC0163
+DC000145	Mercaptopurine; Rifabutin	DCC0147/DCC0273
+DC000146	Acetaminophen; Oxycodone	DCC0049/DCC0112
+DC000147	Mercaptopurine; Rifampin	DCC0273/DCC0280
+DC000148	Acetaminophen; Dihydrocodeine	DCC0049/DCC0346
+DC000149	Clarithromycin; Mercaptopurine	DCC0273/DCC0318
+DC000150	Naphazoline hydrochloride; Pheniramine	DCC0354/DCC0375
+DC000151	Glyburide; Metformin	DCC0057/DCC0267
+DC000152	Aspirin; Caffeine; Dihydrocodeine	DCC0021/DCC0240/DCC0346
+DC000153	Glipizide; Metformin	DCC0057/DCC0286
+DC000154	Acetaminophen; Tramadol	DCC0018/DCC0049
+DC000155	Glimepiride; Rosiglitazone	DCC0027/DCC0082
+DC000156	Glimepiride; Pioglitazone	DCC0027/DCC0303
+DC000157	Metformin; Sitagliptin	DCC0057/DCC0333
+DC000158	Metformin; Rosiglitazone	DCC0057/DCC0082
+DC000159	Carbidopa; Levodopa	DCC0017/DCC0326
+DC000160	Diclofenac; Quinidine	DCC0138/DCC0232
+DC000161	Carbidopa; Entacapone; Levodopa	DCC0017/DCC0110/DCC0326
+DC000162	Quinidine; Warfarin	DCC0171/DCC0232
+DC000163	Chlorpheniramine; Ibuprofen; Pseudoephedrine	DCC0214/DCC0282/DCC0298
+DC000164	Cetirizine; Pseudoephedrine	DCC0063/DCC0214
+DC000165	Mycophenolate mofetil; Rifampin	DCC0173/DCC0280
+DC000166	Amphotericin B; Miltefosine	DCC0170/DCC0450
+DC000167	Adenoviral delivery of human P450R genes; Cisplatin; Tirapazamine	DCC0117/DCC0420/DCC0475
+DC000168	Buprenorphine; Naloxone	DCC0236/DCC0312
+DC000169	Cisplatin; Procainamide	DCC0117/DCC0275
+DC000170	Gamma Hydroxybutyric Acid; Luteolin	DCC0345/DCC0434
+DC000171	Acyclovir; Naproxen	DCC0195/DCC0196
+DC000172	Amphotericin B; Posaconazole	DCC0170/DCC0335
+DC000173	Acyclovir; Ketoprofen	DCC0195/DCC0265
+DC000174	Arsenic sulfide; Imatinib	DCC0148/DCC0387
+DC000175	Ciprofloxacin; Probenecid	DCC0124/DCC0272
+DC000176	Imatinib; Temozolomide	DCC0148/DCC0215
+DC000177	Famotidine; Probenecid	DCC0237/DCC0272
+DC000178	Decitabine; Paclitaxel	DCC0323/DCC0334
+DC000179	Gemifloxacin; Probenecid	DCC0272/DCC0305
+DC000180	Neomycin; Polymyxin B Sulfate	DCC0193/DCC0257
+DC000181	Cisplatin; Oxaliplatin	DCC0117/DCC0120
+DC000182	Methotrexate; Omeprazole	DCC0061/DCC0131
+DC000183	Naproxen; Pseudoephedrine	DCC0196/DCC0214
+DC000184	Bortezomib; Cisplatin	DCC0016/DCC0117
+DC000185	Furosemide; Lomefloxacin	DCC0174/DCC0253
+DC000186	Nystatin; Triamcinolone	DCC0149/DCC0159
+DC000187	Capecitabine; Imatinib	DCC0148/DCC0295
+DC000188	Lomefloxacin; Ranitidine	DCC0217/DCC0253
+DC000189	Neomycin; Polymyxin B Sulfate; Prednisolone	DCC0193/DCC0216/DCC0257
+DC000190	Bortezomib; Carboplatin; Gemcitabine	DCC0016/DCC0094/DCC0245
+DC000191	Omeprazole; Sodium bicarbonate	DCC0061/DCC0341
+DC000192	Oxytetracycline; Polymyxin B Sulfate	DCC0143/DCC0193
+DC000193	Alogliptin; Pioglitazone	DCC0303/DCC0371
+DC000194	Phenylephrine; Promethazine	DCC0075/DCC0287
+DC000001	Gramicidin D; Neomycin; Polymyxin B Sulfate	DCC0005/DCC0193/DCC0257
+DC000002	Gentamicin; Prednisolone	DCC0199/DCC0216
+DC000003	Fluocinolone Acetonide; Hydroquinone; Tretinoin	DCC0140/DCC0186/DCC0388
+DC000004	Fluocinolone Acetonide; Tobramycin	DCC0140/DCC0172
+DC000005	Fluoxetine; Olanzapine	DCC0059/DCC0100
+DC000006	Fluticasone Propionate; Salmeterol	DCC0139/DCC0239
+DC000007	Ethinyl Estradiol; Etonogestrel	DCC0042/DCC0252
+DC000008	Drospirenone; Ethinyl Estradiol	DCC0252/DCC0343
+DC000009	Drospirenone; Estradiol	DCC0194/DCC0343
+DC000010	Ezetimibe; Simvastatin	DCC0157/DCC0250
+DC000011	Ethinyl Estradiol; Ethynodiol Diacetate	DCC0207/DCC0252
+DC000012	Mestranol; Norethindrone	DCC0180/DCC0340
+DC000013	Estradiol; Norgestimate	DCC0194/DCC0244
+DC000014	Erythromycin; Sulfisoxazole	DCC0020/DCC0035
+DC000015	Estradiol; Levonorgestrel	DCC0070/DCC0194
+DC000016	Epinephrine; Lidocaine	DCC0040/DCC0166
+DC000017	Epinephrine; Prilocaine	DCC0166/DCC0185
+DC000018	Bupivacaine; Epinephrine	DCC0044/DCC0166
+DC001908	Metformin; Pioglitazone; Saxagliptin	DCC0057/DCC0303/DCC1680
+DC001910	Atazanavir; Didanosine; Emtricitabine	DCC0225/DCC0228/DCC1489
+DC001928	Alogliptin; Insulin	DCC0371/DCC1124
+DC001932	Felodipine; Irbesartan	DCC0269/DCC0270
+DC001949	Docetaxel; Epirubicin; Pegfilgrastim	DCC0096/DCC0329/DCC1120
+DC001950	Carboplatin; Gemcitabine; Iniparib	DCC0094/DCC0245/DCC0622
+DC001969	Canagliflozin; Metformin	DCC0057/DCC1743
+DC001974	Clomipramine; Fluoxetine	DCC0100/DCC1548
+DC001975	Docetaxel; Gefitinib	DCC0050/DCC0329
+DC001982	Atenolol; Losartan; Propranolol	DCC0060/DCC0134/DCC0169
+DC001986	Fluoxetine; Quetiapine	DCC0100/DCC1541
+DC001998	Mifepristone; Oxytocin	DCC1166/DCC1411
+DC002016	Bortezomib; Cyclophosphamide; Dexamethasone; Thalidomide	DCC0016/DCC0123/DCC0277/DCC0325
+DC002017	Atorvastatin; Lovaza	DCC0290/DCC0859
+DC002034	Aspirin; Bendamustine; Dexamethasone; Lenalidomide	DCC0103/DCC0240/DCC0325/DCC0628
+DC002038	Docetaxel; Enzastaurin; Prednisone	DCC0156/DCC0329/DCC0634
+DC002043	Insulin aspart; Repaglinide	DCC0233/DCC1567
+DC002044	Cyclophosphamide; Docetaxel; Doxorubicin; Trastuzumab	DCC0008/DCC0123/DCC0259/DCC0329
+DC002049	Liraglutide; Metformin	DCC0057/DCC1690
+DC002056	Lopinavir; Raltegravir; Ritonavir	DCC0114/DCC0351/DCC0802
+DC002058	Amphotericin B; Fluconazole	DCC0170/DCC1200
+DC002069	Glatiramer Acetate; Interferon beta 1	DCC0370/DCC0601
+DC002070	Carmustine; O6-benzylguanine	DCC0666/DCC1224
+DC002073	Lithium; Valproic Acid	DCC0048/DCC1574
+DC002079	Fluorouracil; Leucovorin; Oxaliplatin	DCC0120/DCC0128/DCC0162
+DC002081	Lenalidomide; Rituximab	DCC0009/DCC0103
+DC002088	Bevacizumab; Cetuximab; Erlotinib	DCC0001/DCC0012/DCC0122
+DC002091	Hydroxychloroquine; Leflunomide; Methotrexate; Sulfasalazine	DCC0131/DCC1399/DCC1495/DCC1601
+DC001261	Bortezomib; Decitabine	DCC0016/DCC0334
+DC001264	Adefovir; Lamivudine	DCC0179/DCC1368
+DC001268	Sildenafil; Tadalafil	DCC0022/DCC1407
+DC001275	Aliskiren; Hydrochlorothiazide; Valsartan	DCC0014/DCC0260/DCC0331
+DC001296	Dornase alfa; Mannitol	DCC1108/DCC1381
+DC001309	Indacaterol maleate; Tiotropium	DCC0738/DCC1584
+DC001326	Brimonidine; Latanoprost	DCC0106/DCC0164
+DC001328	Fluorouracil; Sorafenib	DCC0079/DCC0128
+DC001330	Docetaxel; Linifanib	DCC0329/DCC0853
+DC001340	Axitinib; Gemcitabine	DCC0094/DCC1688
+DC001351	Quetiapine; Risperidoene; Ziprasidone	DCC1218/DCC1376/DCC1541
+DC001357	Aprepitant; Dexamethasone; Palonosetron	DCC0325/DCC1262/DCC1351
+DC001365	Casopitant; Docetaxel	DCC0329/DCC0770
+DC001367	Bortezomib; Doxorubicin	DCC0016/DCC0259
+DC001372	Bevacizumab; Lapatinib	DCC0012/DCC0332
+DC001396	Bedaquiline; Pyrazinamide	DCC0062/DCC1740
+DC001403	Aspirin; Ticagrelor	DCC0240/DCC1719
+DC001408	Atorvastatin; Fimasartan	DCC0290/DCC0700
+DC001413	Afatinib; Paclitaxel	DCC0323/DCC0429
+DC001414	Darunavir; Raltegravir; Ritonavir	DCC0114/DCC0802/DCC1552
+DC001440	Aspirin; Dimethyl fumarate	DCC0240/DCC1744
+DC001443	Emtricitabine; Nevirapine; Tenofovir	DCC0030/DCC0045/DCC0225
+DC001444	Ethinyl Estradiol; Medroxyprogeterone acetate; Somatropin	DCC0252/DCC0908/DCC1136
+DC001461	Golimumab; Methotrexate	DCC0131/DCC1692
+DC001463	Capecitabine; Lapatinib	DCC0295/DCC0332
+DC001473	Bevacizumab; Fluorouracil; Irinotecan; Leucovorin; Oxaliplatin	DCC0012/DCC0120/DCC0128/DCC0162/DCC0189
+DC001481	Lenalidomide; Melphalan; Prednisone	DCC0103/DCC0156/DCC0278
+DC001506	Bevacizumab; Capecitabine; Cetuximab; Oxaliplatin	DCC0001/DCC0012/DCC0120/DCC0295
+DC001507	Capecitabine; Gemcitabine; Sorafenib	DCC0079/DCC0094/DCC0295
+DC001518	Lamivudine; Maraviroc; Zidovudine	DCC0111/DCC0179/DCC1637
+DC001523	Paclitaxel; Trebananib	DCC0323/DCC1020
+DC001530	Acetaminophen; Diclofenac; Ibuprofen	DCC0049/DCC0138/DCC0282
+DC001536	Capecitabine; Cyclophosphamide	DCC0123/DCC0295
+DC001547	Ibritumomab tiuxetan; Rituximab	DCC0009/DCC0640
+DC001551	Cyclophosphamide; Docetaxel; Doxorubicin	DCC0123/DCC0259/DCC0329
+DC001562	Midazolam; Propofol	DCC0206/DCC1353
+DC001567	Acetaminophen; Amoxicillin; Dextromethorphan; Guaifenesin; Pseudoephedrine	DCC0049/DCC0116/DCC0214/DCC0221/DCC0285
+DC001571	Atorvastatin; Lisinopril; Losartan	DCC0169/DCC0181/DCC0290
+DC001572	Everolimus; Mycophenolate acid	DCC0348/DCC1477
+DC001575	Fluorouracil; Irinotecan; Leucovorin	DCC0128/DCC0162/DCC0189
+DC001577	Capecitabine; Ixabepilone	DCC0295/DCC1639
+DC001584	Everolimus; Letrozole	DCC0264/DCC0348
+DC001606	Cytarabine; SCH 900776	DCC0256/DCC1017
+DC001608	Glimepiride; Metformin	DCC0027/DCC0057
+DC001647	Artesunate; Mefloquine	DCC0066/DCC0464
+DC001689	Budesonide; Lansoprazole	DCC0097/DCC0321
+DC001695	Brentuximab vedotin; Midazolam	DCC1353/DCC1728
+DC001696	Dihydroartemisinin; Piperaquine	DCC0769/DCC0912
+DC001709	Adefovir; Entecavir	DCC1280/DCC1368
+DC001710	Lapatinib; Pazopanib hydrochloride	DCC0332/DCC0777
+DC001728	Gemcitabine; Oxaliplatin	DCC0094/DCC0120
+DC001735	Aspirin; Clopidogrel; Omeprazole	DCC0061/DCC0240/DCC1390
+DC001740	Hydromorphone; Oxymorphone	DCC1247/DCC1530
+DC001750	Dexamethasone; Pomalidomide	DCC0325/DCC1745
+DC001777	Emtricitabine; Tenofovir; Zidovudine	DCC0045/DCC0111/DCC0225
+DC001784	Amantadine; Metformin; Olanzapine; Zonisamide	DCC0057/DCC0059/DCC0234/DCC1436
+DC001786	Bortezomib; Dexamethasone; Panobinostat	DCC0016/DCC0325/DCC0768
+DC001802	Drotrecogin alfa; Fludrocortisone; Hydrocortisone	DCC0184/DCC0849/DCC1354
+DC001808	Cyclophosphamide; Docetaxel; Epirubicin; Fluorouracil; Trastuzumab	DCC0008/DCC0096/DCC0123/DCC0128/DCC0329
+DC001814	Peginterferon alfa-2b; Sorafenib	DCC0003/DCC0079
+DC001830	Gemcitabine; Irinotecan; Panitumumab	DCC0094/DCC0189/DCC1555
+DC001841	Bevacizumab; Capecitabine; Cisplatin; Fluorouracil	DCC0012/DCC0117/DCC0128/DCC0295
+DC001856	Anastrozole; Gefitinib	DCC0050/DCC1539
+DC001863	Heparin; Warfarin	DCC0171/DCC0296
+DC001885	Bevacizumab; Lapatinib; Trastuzumab	DCC0008/DCC0012/DCC0332
+DC001893	Lamivudine; Lopinavir; Ritonavir; Zidovudine	DCC0111/DCC0114/DCC0179/DCC0351
+DC001901	Imatinib; Peginterferon alfa-2b	DCC0003/DCC0148
+DC001904	Ivermectin; Mebendazole	DCC1330/DCC1339
+DC002507	Aspirin; Clopidogrel	DCC0240/DCC1390
+DC002516	Felodipine; Metoprolol	DCC0036/DCC0269
+DC002520	Docetaxel; Doxorubicin	DCC0259/DCC0329
+DC002521	Basiliximab; Rapamycin	DCC0223/DCC1149
+DC002527	Lidocaine; Nitroglycerin	DCC0040/DCC1372
+DC002555	Carboplatin; Iniparib; Paclitaxel	DCC0245/DCC0323/DCC0622
+DC002605	Enbrel; Methotrexate	DCC0131/DCC1110
+DC002608	Cytarabine; Daunorubicin; Filgrastim; Sargramostim; Zosuquidar trihydrochloride	DCC0256/DCC0630/DCC1121/DCC1162/DCC1357
+DC002614	Mycophenolate mofetil; Prednisone; Rapamycin	DCC0156/DCC0173/DCC0223
+DC002618	Cholecalciferol; Sertraline	DCC0887/DCC1498
+DC002634	Carboplatin; Paclitaxel; Sepantronium bromide	DCC0245/DCC0323/DCC0945
+DC002652	Brivaracetam; Levetiracetam; Lorazepam	DCC0316/DCC1098/DCC1197
+DC002656	Azithromycin; Pyrimethamine; Sulfadoxine	DCC0023/DCC0024/DCC0339
+DC002672	Bevacizumab; Cyclophosphamide; Docetaxel; Epirubicin	DCC0012/DCC0096/DCC0123/DCC0329
+DC002827	Betaine; Creatine; Levomefolic acid; Vitamin B12CN	DCC0013/DCC0520/DCC0585/DCC1181
+DC002836	Ethinyl Estradiol; Norethindrone	DCC0180/DCC0252
+DC002845	Mitoxantrone; Prednisone	DCC0156/DCC1535
+DC002846	Cyclophosphamide; Doxorubicin; Fluorouracil	DCC0123/DCC0128/DCC0259
+DC002847	Diphenhydramine; Temsirolimus	DCC0289/DCC1678
+DC002867	Azithromycin; Rifampin	DCC0024/DCC0280
+DC002876	Ranibizumab; Verteporfin	DCC1288/DCC1556
+DC002878	Elesclomol; Paclitaxel	DCC0323/DCC0789
+DC002885	Doxorubicin; Valproic Acid	DCC0048/DCC0259
+DC002890	Doxycycline; Rifampin	DCC0280/DCC1221
+DC002891	Insulin aspart; Metformin	DCC0057/DCC1567
+DC002949	Dacarbazine; Ipilimumab	DCC0787/DCC1417
+DC002951	Naltrexone; Sertraline	DCC0177/DCC1498
+DC002953	Artesunate; Pyrimethamine; Sulfalene	DCC0023/DCC0464/DCC1347
+DC002973	Atazanavir; Cobicistat; Emtricitabine; Tenofovir	DCC0045/DCC0225/DCC0494/DCC1489
+DC002977	Carboplatin; Cyclophosphamide; Docetaxel; Doxorubicin; Trastuzumab	DCC0008/DCC0123/DCC0245/DCC0259/DCC0329
+DC002983	Cisplatin; Fluorouracil; Interferon alfa-2b	DCC0117/DCC0128/DCC1165
+DC002985	Anti-thymocyte globulin; Rapamycin; Tacrolimus	DCC0218/DCC0223/DCC1161
+DC003000	Cytarabine; Lintuzumab	DCC0256/DCC0629
+DC003011	Cyclophosphamide; Doxorubicin; Gemcitabine; Paclitaxel	DCC0094/DCC0123/DCC0259/DCC0323
+DC003030	Adefovir; Entecavir; Lamivudine	DCC0179/DCC1280/DCC1368
+DC003031	Clopidogrel; Prasugrel	DCC1390/DCC1666
+DC002684	Aspirin; Clopidogrel; Prasugrel	DCC0240/DCC1390/DCC1666
+DC002686	Ethacrynic acid; Rosiglitazone	DCC0082/DCC1433
+DC002689	Docetaxel; Paclitaxel; Trastuzumab	DCC0008/DCC0323/DCC0329
+DC002701	Docetaxel; Erlotinib	DCC0122/DCC0329
+DC002713	Adalimumab; Betamethasone; Calcipotriol	DCC0007/DCC0095/DCC0358
+DC002716	Cediranib; Lomustine	DCC0723/DCC1537
+DC002741	Indomethacin; Rilonacept	DCC0055/DCC1682
+DC002745	Carboplatin; Gemcitabine	DCC0094/DCC0245
+DC002749	Fluticasone Propionate; Oxymetazoline; Prazosin	DCC0139/DCC1285/DCC1446
+DC002758	Olanzapine; Valproic Acid	DCC0048/DCC0059
+DC002765	Docetaxel; Prednisone	DCC0156/DCC0329
+DC002772	Fulvestrant; Gefitinib	DCC0050/DCC1450
+DC002774	Epinephrine; Methylprednisolone; Vasopressin	DCC0166/DCC1454/DCC1145
+DC002777	Exenatide; Pioglitazone	DCC0303/DCC1560
+DC002096	Dexamethasone; Granisetron; Prochlorperazine	DCC0089/DCC0325/DCC1427
+DC002104	Campath 1H; Cyclophosphamide; Fludarabine	DCC0123/DCC0288/DCC0917
+DC002122	Anti-thymocyte globulin; Mycophenolate mofetil; Rapamycin; Tacrolimus	DCC0173/DCC0218/DCC0223/DCC1161
+DC002126	Diclofenac; Tanezumab	DCC0138/DCC1011
+DC002130	Aztreonam; Vancomycin	DCC0065/DCC0115
+DC002140	Beclomethasone; Salbutamol	DCC0077/DCC0261
+DC002141	Gemtuzumab ozogamicin; Vorinostat	DCC0361/DCC1138
+DC002150	Glimepiride; Insulin glargine; Metformin	DCC0027/DCC0057/DCC1133
+DC002154	Azathioprine; Infliximab; Methylprednisolone	DCC1143/DCC1454/DCC1468
+DC002155	Atorvastatin; Clopidogrel	DCC0290/DCC1390
+DC002178	Cisplatin; Doxorubicin; Ifosfamide; Palifermin; Vincristine	DCC0117/DCC0126/DCC0259/DCC0311/DCC1129
+DC002181	Dobutamine; Norepinephrine	DCC1259/DCC1412
+DC002186	Fluorouracil; Octreotide	DCC0128/DCC1164
+DC002196	Amoxicillin; Artemether; Lumefantrine	DCC0285/DCC0372/DCC0374
+DC002202	Beclomethasone; Salmeterol	DCC0077/DCC0239
+DC002205	Gentamicin; Levofloxacin	DCC0199/DCC0304
+DC002209	Docetaxel; Fluorouracil; Leucovorin; Oxaliplatin	DCC0120/DCC0128/DCC0162/DCC0329
+DC002220	Fulvestrant; Ganitumab	DCC1040/DCC1450
+DC002238	Bicalutamide; Goserelin acetate	DCC1116/DCC1508
+DC002240	Docetaxel; Epirubicin; Recombinant human endostatin	DCC0096/DCC0329/DCC1775
+DC002248	Aripiprazole; Lithium	DCC1546/DCC1574
+DC002254	Folic acid; Metformin	DCC0057/DCC1183
+DC002264	Exemestane; Ganitumab	DCC1040/DCC1466
+DC002270	Ezetimibe; Fluvastatin	DCC0250/DCC1494
+DC002275	Bismuth subcitrate potassium; Metronidazole; Omeprazole; Tetracycline	DCC0061/DCC0187/DCC0235/DCC1010
+DC002282	Moxifloxacin; PA-824; Pyrazinamide	DCC0062/DCC0407/DCC1208
+DC002327	Carfilzomib; Dexamethasone; Lenalidomide	DCC0103/DCC0325/DCC1737
+DC002342	Bevacizumab; Cisplatin; Pemetrexed	DCC0012/DCC0117/DCC0158
+DC002364	Artemether; Chloroquine; Lumefantrine	DCC0372/DCC0374/DCC1333
+DC002367	Bortezomib; Cyclophosphamide; Dexamethasone; Lenalidomide	DCC0016/DCC0103/DCC0123/DCC0325
+DC002381	Casopitant; Dexamethasone; Ondansetron	DCC0325/DCC0770/DCC1434
+DC002383	Ceftriaxone; Levofloxacin	DCC0304/DCC0319
+DC002405	Erlotinib; Gemcitabine; Oxaliplatin	DCC0094/DCC0120/DCC0122
+DC002411	Dexamethasone; Lenalidomide; Sotatercept	DCC0103/DCC0325/DCC0488
+DC002413	Erlotinib; Teprotumumab	DCC0122/DCC1024
+DC002423	Olaparib; Paclitaxel	DCC0323/DCC0932
+DC002436	Neratinib; Paclitaxel	DCC0323/DCC0904
+DC002437	Bleomycin sulfate; Doxorubicin; Etoposide; Prednisone; Procarbazine	DCC0156/DCC0191/DCC0259/DCC1234/DCC1522
+DC002449	Peginterferon alfa-2a; Ribavirin; Thymalfasin	DCC0002/DCC0203/DCC1648
+DC002454	Chlorhexidine; Lidocaine	DCC0040/DCC0224
+DC002470	Cetrorelix acetate; Letrozole	DCC0264/DCC1135
+DC002484	Midazolam; Zibotentan	DCC0652/DCC1353
+DC002485	Abciximab; Rapamycin	DCC0223/DCC1137
+DC002493	Humalog; Insulin glargine	DCC1132/DCC1133
+DC002494	Buserelin; Pregnyl	DCC1160/DCC1703
+DC002499	Canakinumab; Metformin	DCC0057/DCC1664
+DC002501	Formoterol; Salmeterol	DCC0239/DCC0255
+DC002503	Amoxicillin; Esomeprazole; Moxifloxacin	DCC0285/DCC1208/DCC1377
+DC002505	Campath 1H; Rapamycin	DCC0223/DCC0917
+DC003584	Bevacizumab; Cyclophosphamide; Epirubicin; Fluorouracil; Paclitaxel	DCC0012/DCC0096/DCC0123/DCC0128/DCC0323
+DC003585	Ceftaroline fosamil; Clarithromycin	DCC0318/DCC1684
+DC003590	Ampicillin; Cefuroxime; Sulbactam	DCC0083/DCC0893/DCC1500
+DC003607	Azacitidine; Romiplostim	DCC0717/DCC1443
+DC003611	Boceprevir; Peginterferon alfa-2b; Ribavirin	DCC0003/DCC0203/DCC0764
+DC003619	Gefitinib; Simvastatin	DCC0050/DCC0157
+DC003645	Fentanyl; Midazolam	DCC0204/DCC1353
+DC003646	Piperaquine; Pyrimethamine; Sulfadoxine	DCC0023/DCC0339/DCC0769
+DC003665	Temozolomide; Vorinostat	DCC0215/DCC0361
+DC003675	Infliximab; Methotrexate; Methylprednisolone	DCC0131/DCC1143/DCC1454
+DC003689	Fenofibrate; Lapaquistat acetate	DCC0276/DCC0657
+DC003692	Laropiprant; Niacin; Rosuvastatin	DCC0152/DCC0294/DCC0448
+DC003697	Dacarbazine; Fotemustine; Interferon alfa-2b	DCC1165/DCC1417/DCC1628
+DC003704	Carboplatin; Doxorubicin; Trastuzumab	DCC0008/DCC0245/DCC0259
+DC003707	Duloxetine; Escitalopram	DCC1293/DCC1524
+DC003717	Atorvastatin; Interferon beta 1	DCC0290/DCC0601
+DC003718	Atorvastatin; Lapaquistat acetate	DCC0290/DCC0657
+DC003734	Basiliximab; Everolimus; Tacrolimus	DCC0218/DCC0348/DCC1149
+DC003737	Amoxicillin; Bismuth potassium citrate; Clavulanate; Esomeprazole; Furazolidone	DCC0190/DCC0285/DCC0832/DCC1334/DCC1377
+DC003746	Clomifene; Metformin	DCC0057/DCC1424
+DC003750	Efavirenz; Emtricitabine; Lamivudine; Tenofovir; Zidovudine	DCC0045/DCC0111/DCC0150/DCC0179/DCC0225
+DC003752	Lapaquistat acetate; Rosuvastatin	DCC0294/DCC0657
+DC003764	Formoterol; Omalizumab; Salmeterol	DCC0239/DCC0255/DCC1131
+DC003771	Ceftriaxone; Ertapenem	DCC0319/DCC1240
+DC003038	Fentanyl; Mepivacaine	DCC0204/DCC0246
+DC003043	Fluticasone Propionate; Formoterol	DCC0139/DCC0255
+DC003052	Metoclopramide; Phenylephrine	DCC0075/DCC1545
+DC003062	Leuprolide acetate; Zoledronate	DCC0080/DCC1112
+DC003066	Furosemide; Spironolactone	DCC0085/DCC0174
+DC003074	Furosemide; Mannitol	DCC0174/DCC1381
+DC003082	Aldesleukin; Cyclophosphamide; Etoposide; Filgrastim	DCC0006/DCC0123/DCC0191/DCC1162
+DC003089	Rapamycin; Tacrolimus	DCC0218/DCC0223
+DC003100	Dihydroartemisinin; Piperaquine; Primaquine	DCC0769/DCC0912/DCC1493
+DC003110	Citalopram; Fluoxetine	DCC0100/DCC1207
+DC003117	Alfacalcidol; Calcium; Ibandronate	DCC1363/DCC1577/DCC1589
+DC003124	Lamivudine; Raltegravir; Tenofovir	DCC0045/DCC0179/DCC0802
+DC003129	Busulfan; Melphalan	DCC0278/DCC1471
+DC003132	Cyclophosphamide; Filgrastim; Lenalidomide; Melphalan	DCC0103/DCC0123/DCC0278/DCC1162
+DC003139	Methotrexate; Tacrolimus	DCC0131/DCC0218
+DC003148	Clopidogrel; Everolimus	DCC0348/DCC1390
+DC003152	Amodiaquine; Artesunate; Pyrimethamine; Sulfadoxine	DCC0023/DCC0146/DCC0339/DCC0464
+DC003156	Desipramine; Naltrexone; Paroxetine	DCC0177/DCC1367/DCC1515
+DC003176	Campath 1H; Rituximab; Sargramostim	DCC0009/DCC0917/DCC1121
+DC003185	Miltefosine; Paromomycin	DCC0450/DCC1587
+DC003186	Gemcitabine; Paclitaxel	DCC0094/DCC0323
+DC003191	Mycophenolate mofetil; Rapamycin; Tacrolimus	DCC0173/DCC0218/DCC0223
+DC003200	Exenatide; Prednisolone	DCC0216/DCC1560
+DC003211	Pravastatin; Simvastatin	DCC0157/DCC1191
+DC003215	Atorvastatin; Ezetimibe; Fenofibrate	DCC0250/DCC0276/DCC0290
+DC003251	Bexarotene; Methoxsalen	DCC1242/DCC1314
+DC003252	Phenylephrine; Pseudoephedrine	DCC0075/DCC0214
+DC003262	Cetuximab; Cisplatin; Vinorelbine	DCC0001/DCC0067/DCC0117
+DC003269	Insulin glargine; Lixisenatide; Metformin	DCC0057/DCC0741/DCC1133
+DC003276	Prednisone; Thalidomide	DCC0156/DCC0277
+DC003290	Vitamin d; Zoledronate	DCC0080/DCC1182
+DC003294	Interferon alfa-2b; Interferon gamma-1b; Ribavirin	DCC0203/DCC1126/DCC1165
+DC003295	Apixaban; Enoxaparin; Warfarin	DCC0171/DCC1542/DCC1686
+DC003304	Pantoprazole; Rebamipide	DCC0026/DCC1035
+DC003321	Cyclophosphamide; Doxorubicin; Obinutuzumab; Prednisone; Vincristine	DCC0123/DCC0126/DCC0156/DCC0259/DCC1084
+DC003324	Bevacizumab; Carboplatin; Gemcitabine	DCC0012/DCC0094/DCC0245
+DC003325	Cisplatin; Pemetrexed	DCC0117/DCC0158
+DC003331	Levofloxacin; Prednisone	DCC0156/DCC0304
+DC003335	Pertuzumab; Trastuzumab	DCC0008/DCC1681
+DC003345	Primaquine; Pyrimethamine; Sulfadoxine	DCC0023/DCC0339/DCC1493
+DC003351	Captopril; Irbesartan	DCC0270/DCC0315
+DC003362	Azathioprine; Prednisolone	DCC0216/DCC1468
+DC003363	Lapatinib; Paclitaxel; Trastuzumab	DCC0008/DCC0323/DCC0332
+DC003375	Atazanavir; Lamivudine; Raltegravir	DCC0179/DCC0802/DCC1489
+DC003376	Azacitidine; Lenalidomide	DCC0103/DCC1443
+DC003382	Hydromorphone; Oxycodone	DCC0112/DCC1247
+DC003385	Estradiol; Leuprolide acetate	DCC0194/DCC1112
+DC003395	Etodolac; Propranolol	DCC0134/DCC1386
+DC003407	Cisplatin; Erlotinib	DCC0117/DCC0122
+DC003418	Enbrel; Methotrexate; Prednisolone	DCC0131/DCC0216/DCC1110
+DC003422	Cisplatin; Fluorouracil	DCC0117/DCC0128
+DC003423	Ketorolac; Morphine; Ropivacaine	DCC0043/DCC0920/DCC1238
+DC003425	Lixisenatide; Metformin	DCC0057/DCC0741
+DC003435	Formoterol; Tiotropium	DCC0255/DCC1584
+DC003440	Pravastatin; Valsartan	DCC0014/DCC1191
+DC003443	Bevacizumab; Cisplatin; Topotecan	DCC0012/DCC0117/DCC0271
+DC003477	Chlorambucil; Rituximab	DCC0009/DCC1235
+DC003492	Cyclophosphamide; Fludarabine; Ofatumumab	DCC0123/DCC0288/DCC1106
+DC003505	Mycophenolate mofetil; Prednisone; Tacrolimus	DCC0156/DCC0173/DCC0218
+DC003509	Aspirin; Cilostazol; Clopidogrel	DCC0240/DCC1390/DCC1520
+DC003521	Isoniazid; Sulfamethoxazole; Trimethoprim	DCC0093/DCC0242/DCC0266
+DC003554	Insulin glargine; Metformin	DCC0057/DCC1133
+DC003559	Calcium carbonate; Teriparatide; Vitamin d	DCC1182/DCC1677/DCC1705
+DC003566	Bortezomib; Idarubicin	DCC0016/DCC1525
+DC003577	Anastrozole; Goserelin acetate	DCC1116/DCC1539
+DC003578	Abciximab; Heparin	DCC0296/DCC1137
+DC004250	Methylprednisolone; Mycophenolate mofetil; Prednisone; Rituximab	DCC0009/DCC0156/DCC0173/DCC1454
+DC004263	Clopidogrel; Telmisartan	DCC0247/DCC1390
+DC004288	Amodiaquine; Pyrimethamine; Sulfadoxine	DCC0023/DCC0146/DCC0339
+DC004289	Aliskiren; Captopril	DCC0315/DCC0331
+DC004307	Budesonide; Terbutaline	DCC0321/DCC1422
+DC004309	Enoxaparin; Rosuvastatin	DCC0294/DCC1542
+DC004310	Chlordiazepoxide; Citalopram; Pioglitazone	DCC0101/DCC0303/DCC1207
+DC004318	Bupivacaine; Hydromorphone	DCC0044/DCC1247
+DC004327	Danoprevir; Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203/DCC0979
+DC004329	Ceftazidime; Metronidazole	DCC0091/DCC0235
+DC004345	Aspirin; Lenalidomide; Melphalan; Prednisone	DCC0103/DCC0156/DCC0240/DCC0278
+DC004362	Carvedilol; Enalapril	DCC0137/DCC1509
+DC004366	Fluoxetine; Lithium carbonate; Venlafaxine	DCC0100/DCC0818/DCC1231
+DC004534	Drotrecogin alfa; Enoxaparin	DCC0849/DCC1542
+DC004569	Floxacillin; Nafcillin; Oxacillin; Teicoplanin; Vancomycin	DCC0115/DCC1239/DCC1332/DCC1365/DCC1661
+DC004575	Lisinopril; Losartan	DCC0169/DCC0181
+DC004578	Capecitabine; Sorafenib	DCC0079/DCC0295
+DC004590	Carboplatin; Pemetrexed	DCC0158/DCC0245
+DC004598	Atrasentan; Docetaxel; Prednisone	DCC0156/DCC0329/DCC0639
+DC004601	1-propanol; Octenidine	DCC0909/DCC1622
+DC004617	Conivaptan; Furosemide	DCC0174/DCC1423
+DC004618	Atorvastatin; Simvastatin	DCC0157/DCC0290
+DC004637	Basiliximab; Everolimus; Mycophenolate acid; Prednisolone	DCC0216/DCC0348/DCC1149/DCC1477
+DC004658	Acetaminophen; Morphine	DCC0043/DCC0049
+DC004659	Carbamazepine; Nevirapine	DCC0030/DCC0132
+DC004661	Liraglutide; Sulfonylurea	DCC0811/DCC1690
+DC004679	Carboplatin; Docetaxel	DCC0245/DCC0329
+DC004690	Doxycycline; Ethinyl Estradiol; Levonorgestrel	DCC0070/DCC0252/DCC1221
+DC004694	Colchicine; Ketoconazole	DCC0342/DCC1478
+DC004700	Bisacodyl; Polyethylene glycol	DCC0705/DCC0850
+DC004719	Capecitabine; Epirubicin; Oxaliplatin; Panitumumab	DCC0096/DCC0120/DCC0295/DCC1555
+DC004724	LMWH; Warfarin	DCC0171/DCC1755
+DC004727	Cyclophosphamide; Dexamethasone; Lenalidomide	DCC0103/DCC0123/DCC0325
+DC004736	Bicalutamide; Dutasteride; Goserelin acetate; Ketoconazole	DCC1116/DCC1478/DCC1507/DCC1508
+DC004751	Ciprofloxacin; Tobramycin	DCC0124/DCC0172
+DC004769	Follitropin beta; Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203/DCC1144
+DC004379	Nevirapine; Zidovudine	DCC0030/DCC0111
+DC004397	Ibuprofen; Telcagepant	DCC0282/DCC0944
+DC004406	Colchicine; Ritonavir	DCC0114/DCC0342
+DC004425	Efavirenz; Lamivudine; Zidovudine	DCC0111/DCC0150/DCC0179
+DC004428	Cyclosporine; Everolimus; Pimecrolimus; Tacrolimus	DCC0011/DCC0218/DCC0348/DCC1249
+DC004458	Candesartan; Nifedipine	DCC0198/DCC1502
+DC004459	Darunavir; Ritonavir	DCC0114/DCC1552
+DC004469	Dapagliflozin; Glimepiride; Metformin; Pioglitazone; Rosiglitazone	DCC0027/DCC0057/DCC0082/DCC0303/DCC0779
+DC004483	Aspirin; Pioglitazone	DCC0240/DCC0303
+DC004490	Efavirenz; Lamivudine; Stavudine	DCC0150/DCC0161/DCC0179
+DC004523	Arginine hydrochloride; Vitamin d	DCC1172/DCC1182
+DC004527	Bupivacaine; Clonidine; Lidocaine	DCC0040/DCC0044/DCC0136
+DC003773	Emtricitabine; Raltegravir; Tenofovir	DCC0045/DCC0225/DCC0802
+DC003841	Bismuth Subsalicylate; Furazolidone; Tetracycline	DCC0187/DCC0338/DCC1334
+DC003851	Cisplatin; Vinorelbine	DCC0067/DCC0117
+DC003855	Ceftriaxone; Oxacillin	DCC0319/DCC1365
+DC003875	Aspirin; Dipyridamole; Telmisartan	DCC0240/DCC0247/DCC0251
+DC003896	Boceprevir; Epoetin-alpha; Peginterferon alfa-2b; Ribavirin	DCC0003/DCC0203/DCC0764/DCC1118
+DC003897	Campath 1H; Fludarabine; Rituximab	DCC0009/DCC0288/DCC0917
+DC003898	Cisplatin; Doxorubicin; Ifosfamide; Vincristine	DCC0117/DCC0126/DCC0259/DCC0311
+DC003926	Oxaliplatin; Tegafur; Potassium oxonate; 5-2,4-dihydroxypyrimidine	DCC0120/DCC0403/DCC0416/DCC0439
+DC003936	Canagliflozin; Metformin; Sulfonylurea	DCC0057/DCC0811/DCC1743
+DC003937	Insulin glargine; Insulin glulisine	DCC1133/DCC1569
+DC003938	Aflibercept; Docetaxel	DCC0329/DCC1736
+DC003954	Dexamethasone; Doxorubicin; Lenalidomide	DCC0103/DCC0259/DCC0325
+DC003957	Cabazitaxel; Prednisone	DCC0156/DCC1707
+DC003959	Celecoxib; Chenodeoxycholic acid	DCC0105/DCC1594
+DC003961	Sorafenib; Tegafur; Uracil	DCC0079/DCC0403/DCC1624
+DC003973	Didanosine; Lopinavir; Ritonavir; Zidovudine	DCC0111/DCC0114/DCC0228/DCC0351
+DC003991	Atorvastatin; Ezetimibe; Simvastatin	DCC0157/DCC0250/DCC0290
+DC003997	Efavirenz; Ethambutol; Isoniazid; Lamivudine; Pyrazinamide; Rifampin	DCC0056/DCC0062/DCC0150/DCC0179/DCC0242/DCC0280
+DC004000	Aripiprazole; Olanzapine; Quetiapine; Risperidoene; Ziprasidone	DCC0059/DCC1218/DCC1376/DCC1541/DCC1546
+DC004002	Acamprosate; Escitalopram	DCC1345/DCC1524
+DC004005	Cholecalciferol; Insulin glargine	DCC0887/DCC1133
+DC004024	L-NMMA acetate; Trimethaphan	DCC0810/DCC1503
+DC004025	Rosiglitazone; Somatropin	DCC0082/DCC1136
+DC004030	Basiliximab; Belatacept; Mycophenolate mofetil; Tacrolimus	DCC0173/DCC0218/DCC1149/DCC1693
+DC004047	Colesevelam; Metformin	DCC0057/DCC1444
+DC004053	Didanosine; Nevirapine; Zidovudine	DCC0030/DCC0111/DCC0228
+DC004057	Bleomycin sulfate; Dacarbazine; Doxorubicin; Rituximab; Vinblastine	DCC0009/DCC0259/DCC1234/DCC1321/DCC1417
+DC004060	Artesunate; Pyrimethamine; Sulfadoxine	DCC0023/DCC0339/DCC0464
+DC004079	Peginterferon alfa-2a; Ribavirin; Simeprevir	DCC0002/DCC0203/DCC1060
+DC004097	Peginterferon alfa-2a; Ribavirin; Telaprevir	DCC0002/DCC0203/DCC1658
+DC004100	Ceftriaxone; Clarithromycin	DCC0318/DCC0319
+DC004109	Artesunate; Pyronaridine	DCC0464/DCC0927
+DC004112	Conjugated Estrogen; Estradiol; Progestrone	DCC0194/DCC0552/DCC1267
+DC004136	Docetaxel; Oxaliplatin; Vandetanib	DCC0120/DCC0329/DCC1657
+DC004137	Amoxicillin; Clarithromycin; Metronidazole; Omeprazole	DCC0061/DCC0235/DCC0285/DCC0318
+DC004149	Memantine; Rivastigmine	DCC1465/DCC1481
+DC004156	Campath 1H; Tacrolimus	DCC0218/DCC0917
+DC004164	Carboplatin; Etoposide	DCC0191/DCC0245
+DC004166	Carboplatin; Trientine	DCC0245/DCC0532
+DC004170	Losartan; Propranolol	DCC0134/DCC0169
+DC004178	Cytarabine; Daunorubicin; Midostaurin	DCC0256/DCC0386/DCC1357
+DC004187	Olanzapine; Quetiapine; Ziprasidone	DCC0059/DCC1218/DCC1541
+DC004193	Prednisone; Rituximab	DCC0009/DCC0156
+DC004198	Adenosine; Nicorandil	DCC0875/DCC1338
+DC004205	Didanosine; Efavirenz; Zidovudine	DCC0111/DCC0150/DCC0228
+DC005421	Enbrel; Levofloxacin	DCC0304/DCC1110
+DC005449	Exenatide; Insulin	DCC1124/DCC1560
+DC005450	Fluconazole; Lamivudine; Nevirapine; Stavudine	DCC0030/DCC0161/DCC0179/DCC1200
+DC005463	Aprepitant; Fexofenadine; Prednisone	DCC0156/DCC0241/DCC1351
+DC005467	Metformin; Spironolactone	DCC0057/DCC0085
+DC005472	Atazanavir; Lopinavir; Ritonavir	DCC0114/DCC0351/DCC1489
+DC005488	Benzathine penicillin; Doxycycline	DCC0612/DCC1221
+DC005501	2-Propanol; Ethanol	DCC0886/DCC1431
+DC005521	Acetaminophen; Telcagepant	DCC0049/DCC0944
+DC005523	Basiliximab; Cyclosporine; Mycophenolate mofetil; Prednisone	DCC0011/DCC0156/DCC0173/DCC1149
+DC005540	Bortezomib; Cyclophosphamide; Dexamethasone	DCC0016/DCC0123/DCC0325
+DC005542	Methotrexate; Prednisone; Rituximab	DCC0009/DCC0131/DCC0156
+DC005557	Denosumab; Teriparatide	DCC1677/DCC1689
+DC005559	Bevacizumab; Carboplatin; Irinotecan	DCC0012/DCC0189/DCC0245
+DC005570	Brimonidine; Prostaglandin; Timolol	DCC0072/DCC0106/DCC1613
+DC005582	Budesonide; Formoterol; Terbutaline	DCC0255/DCC0321/DCC1422
+DC005603	Bosutinib; Lansoprazole	DCC0097/DCC1687
+DC005610	Azelnidipine; Olmesartan	DCC0038/DCC0565
+DC005613	Bevacizumab; Trastuzumab	DCC0008/DCC0012
+DC005627	Argatroban; Desirudin	DCC0551/DCC1227
+DC005636	Capecitabine; Gemcitabine; Oxaliplatin; Panitumumab	DCC0094/DCC0120/DCC0295/DCC1555
+DC005651	Ketamine; Morphine	DCC0043/DCC0320
+DC005658	Bortezomib; Prednisone; Thalidomide	DCC0016/DCC0156/DCC0277
+DC005665	Bortezomib; Dexamethasone; Lenalidomide	DCC0016/DCC0103/DCC0325
+DC005702	Donepezil; Duloxetine; Escitalopram; Venlafaxine	DCC1231/DCC1293/DCC1414/DCC1524
+DC005712	Bevacizumab; Interferon alfa-2a	DCC0012/DCC1127
+DC004818	Pentobarbital; Thiopental	DCC1244/DCC1329
+DC004823	Methotrexate; Simvastatin; Tocilizumab	DCC0131/DCC0157/DCC1676
+DC004834	Cetuximab; Paclitaxel	DCC0001/DCC0323
+DC004843	Basiliximab; Tacrolimus	DCC0218/DCC1149
+DC004844	Cytarabine; Etoposide; Mitoxantrone; Plerixafor	DCC0191/DCC0256/DCC1535/DCC1710
+DC004857	Cyclophosphamide; Fluorouracil; Methotrexate	DCC0123/DCC0128/DCC0131
+DC004864	Fluticasone Propionate; Prednisolone	DCC0139/DCC0216
+DC004872	Methylprednisolone; Ocrelizumab	DCC0868/DCC1454
+DC004873	Insulin; Repaglinide	DCC0233/DCC1124
+DC004887	Alogliptin; Voglibose	DCC0371/DCC1644
+DC004890	Methyltestosterone; Sildenafil	DCC0022/DCC1335
+DC004926	Duloxetine; Gabapentin	DCC0258/DCC1293
+DC004931	Azathioprine; Infliximab	DCC1143/DCC1468
+DC004934	Azacitidine; Sorafenib	DCC0079/DCC1443
+DC004956	Mifepristone; Misoprostol	DCC0238/DCC1411
+DC004957	Lopinavir; Pitavastatin; Ritonavir	DCC0114/DCC0351/DCC1726
+DC004962	Methotrexate; Tocilizumab	DCC0131/DCC1676
+DC004965	Dexamethasone; Doxorubicin; Trabectedin	DCC0259/DCC0325/DCC0369
+DC004966	Glyburide; Metformin; Saxagliptin	DCC0057/DCC0267/DCC1680
+DC004971	Efavirenz; Ethambutol; Isoniazid; Nevirapine; Rifampin	DCC0030/DCC0056/DCC0150/DCC0242/DCC0280
+DC004972	RHpDGF-BB; Tricalcium phosphate	DCC0938/DCC1781
+DC004974	Anti-thymocyte globulin; Cyclosporine	DCC0011/DCC1161
+DC004980	Cyclophosphamide; Prednisolone	DCC0123/DCC0216
+DC004989	Doxorubicin; Sorafenib	DCC0079/DCC0259
+DC004991	Ceftriaxone; Metronidazole	DCC0235/DCC0319
+DC004999	Indacaterol maleate; Salmeterol	DCC0239/DCC0738
+DC005005	Azacitidine; Gemtuzumab ozogamicin; Vorinostat	DCC0361/DCC1138/DCC1443
+DC005012	Pioglitazone; Saxagliptin	DCC0303/DCC1680
+DC005042	Amisulpride; Moclobemide	DCC1523/DCC1679
+DC005043	Calcium carbonate; Vitamin d	DCC1182/DCC1705
+DC005046	Dextroamphetamine; Methylphenidate	DCC1273/DCC1593
+DC005062	Decitabine; Valproic Acid	DCC0048/DCC0334
+DC005093	Dexamethasone; Rituximab	DCC0009/DCC0325
+DC005096	Escitalopram; Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203/DCC1524
+DC005116	Anastrozole; Fulvestrant	DCC1450/DCC1539
+DC005134	Obatoclax mesylate; Topotecan	DCC0271/DCC0956
+DC005141	Azacitidine; Carboplatin; Valproic Acid	DCC0048/DCC0245/DCC1443
+DC005159	Candesartan; Enalapril	DCC0137/DCC0198
+DC005160	Infliximab; Methotrexate	DCC0131/DCC1143
+DC005184	Amlodipine; Hydrochlorothiazide	DCC0073/DCC0260
+DC005208	Norethindrone; Triptorelin	DCC0180/DCC0834
+DC005210	Dobutamine; Dopexamine; Epinephrine; Norepinephrine	DCC0166/DCC0990/DCC1259/DCC1412
+DC005220	Edoxaban; LMWH	DCC1046/DCC1755
+DC005246	Clarithromycin; Fluticasone Propionate	DCC0139/DCC0318
+DC005250	Bupropion; Citalopram; Sertraline	DCC0306/DCC1207/DCC1498
+DC005258	Ritonavir; Tipranavir	DCC0114/DCC1445
+DC005259	Docetaxel; Pertuzumab; Trastuzumab	DCC0008/DCC0329/DCC1681
+DC005263	Cyclosporine; Mycophenolate mofetil; Prednisolone	DCC0011/DCC0173/DCC0216
+DC005268	Capecitabine; Cisplatin; Imatinib	DCC0117/DCC0148/DCC0295
+DC005284	Clonazepam; Sertraline	DCC1488/DCC1498
+DC005288	Bicarbonate; Lactate	DCC0793/DCC0907
+DC005294	Atenolol; Losartan	DCC0060/DCC0169
+DC005314	Cetuximab; Docetaxel; Oxaliplatin	DCC0001/DCC0120/DCC0329
+DC005319	Capecitabine; Enzastaurin	DCC0295/DCC0634
+DC005322	Fluticasone Propionate; GSK2190915	DCC0139/DCC0969
+DC005323	Edoxaban; Heparin	DCC0296/DCC1046
+DC005333	Amiloride; Amlodipine; Simvastatin; Telmisartan	DCC0073/DCC0142/DCC0157/DCC0247
+DC005336	Cyclophosphamide; Prednisone; Rituximab; Vincristine	DCC0009/DCC0123/DCC0126/DCC0156
+DC005339	Gliclazide; Metformin	DCC0057/DCC1505
+DC005350	Cetuximab; Mitoxantrone	DCC0001/DCC1535
+DC005353	Glimepiride; Insulin; Metformin; Rosiglitazone	DCC0027/DCC0057/DCC0082/DCC1124
+DC005362	Bupropion; Escitalopram	DCC0306/DCC1524
+DC005385	Albendazole; Ivermectin	DCC0118/DCC1330
+DC005389	Posaconazole; Tolterodine	DCC0335/DCC1479
+DC005396	Amlodipine; Losartan	DCC0073/DCC0169
+DC005400	Amoxicillin; Clarithromycin; Metronidazole	DCC0235/DCC0285/DCC0318
+DC005404	Cyclosporine; Infliximab	DCC0011/DCC1143
+DC005412	Alprostadil; Papaverine; Phentolamine; Sildenafil	DCC0022/DCC1356/DCC1395/DCC1501
+DC006192	Bevacizumab; Capecitabine; Trastuzumab	DCC0008/DCC0012/DCC0295
+DC006200	Gefitinib; Sunitinib	DCC0050/DCC0336
+DC006217	Rosiglitazone; Sulfonylurea	DCC0082/DCC0811
+DC006255	Acetylcysteine; Prednisolone	DCC0216/DCC1662
+DC006260	Epinephrine; Hydrocortisone; Methylprednisolone; Vasopressin	DCC0166/DCC0184/DCC1145/DCC1454
+DC006269	Ezetimibe; Niacin	DCC0152/DCC0250
+DC006275	Cytarabine; Daunorubicin	DCC0256/DCC1357
+DC006321	Aspirin; Esomeprazole	DCC0240/DCC1377
+DC006327	Busulfan; Cyclophosphamide; Cytarabine; Daunorubicin; Gemtuzumab ozogamicin; Sargramostim	DCC0123/DCC0256/DCC1121/DCC1138/DCC1357/DCC1471
+DC006337	Olanzapine; Sertraline	DCC0059/DCC1498
+DC006382	Oxymetazoline; Tetracaine hydrochloride	DCC0590/DCC1446
+DC006391	Methylprednisolone; Prednisone; Rituximab	DCC0009/DCC0156/DCC1454
+DC006406	Ribavirin; Sofosbuvir	DCC0203/DCC0545
+DC006577	Fluorouracil; Irinotecan; Leucovorin; Sunitinib	DCC0128/DCC0162/DCC0189/DCC0336
+DC006623	Capecitabine; Dexamethasone; Floxuridine; Oxaliplatin	DCC0120/DCC0295/DCC0325/DCC1245
+DC006625	Amodiaquine; Pyrimethamine; Sulfalene	DCC0023/DCC0146/DCC1347
+DC006697	Follitropin alpha; Triptorelin	DCC0603/DCC0834
+DC006701	Insulin glargine; Metformin; Sitagliptin	DCC0057/DCC0333/DCC1133
+DC006725	Azathioprine; Cyclophosphamide; Methylprednisolone; Prednisone	DCC0123/DCC0156/DCC1454/DCC1468
+DC006726	Carboplatin; Paclitaxel; Zibotentan	DCC0245/DCC0323/DCC0652
+DC006727	Canfosfamide; Doxorubicin	DCC0259/DCC0620
+DC006742	Liraglutide; Metformin; Sitagliptin	DCC0057/DCC0333/DCC1690
+DC006745	Lithium; Verapamil	DCC0165/DCC1574
+DC006753	Montelukast; Prednisolone	DCC0099/DCC0216
+DC006759	Capecitabine; Docetaxel; Epirubicin	DCC0096/DCC0295/DCC0329
+DC006767	Didanosine; Efavirenz; Lamivudine	DCC0150/DCC0179/DCC0228
+DC006803	Fotemustine; Ipilimumab	DCC0787/DCC1628
+DC006815	Eptifibatide; Heparin	DCC0296/DCC1142
+DC006823	Capecitabine; Lapatinib; Oxaliplatin	DCC0120/DCC0295/DCC0332
+DC006837	Paromomycin; Sodium stibogluconate	DCC1587/DCC1659
+DC006842	Interferon alfa-2a; Ribavirin; Sofosbuvir	DCC0203/DCC0545/DCC1127
+DC006847	Cisplatin; Dexamethasone; Folic acid; Vitamin B12CN	DCC0013/DCC0117/DCC0325/DCC1183
+DC006853	Diclofenac; Omeprazole	DCC0061/DCC0138
+DC006857	Cediranib; Olaparib	DCC0723/DCC0932
+DC006861	Interferon alfa-2b; Ribavirin; Sofosbuvir	DCC0203/DCC0545/DCC1165
+DC006864	Fluticasone Propionate; Omalizumab	DCC0139/DCC1131
+DC006430	Bupropion; Escitalopram	DCC0306/DCC1524
+DC006457	Clopidogrel; Paclitaxel	DCC0323/DCC1390
+DC006475	Buprenorphine; Naltrexone	DCC0177/DCC0236
+DC006476	Aripiprazole; Valproic Acid	DCC0048/DCC1546
+DC006480	Capecitabine; Irinotecan; Oxaliplatin	DCC0120/DCC0189/DCC0295
+DC006495	Lamivudine; Nelfinavir	DCC0179/DCC1209
+DC006509	Dasatinib; Docetaxel	DCC0329/DCC0330
+DC006524	Everolimus; Exemestane	DCC0348/DCC1466
+DC006553	Irbesartan; Ramipril	DCC0015/DCC0270
+DC006554	Brentuximab vedotin; Ketoconazole	DCC1478/DCC1728
+DC006569	Atorvastatin; Rosuvastatin	DCC0290/DCC0294
+DC006572	Ceftriaxone; Linezolid	DCC0144/DCC0319
+DC005715	Carboplatin; Enzastaurin; Pemetrexed	DCC0158/DCC0245/DCC0634
+DC005732	Cholecalciferol; Phenylbutyrate sodium	DCC0635/DCC0887
+DC005733	Melphalan; Prednisolone; Thalidomide	DCC0216/DCC0277/DCC0278
+DC005743	Bevacizumab; Cisplatin; Gemcitabine	DCC0012/DCC0094/DCC0117
+DC005750	Aliskiren; Losartan	DCC0169/DCC0331
+DC005752	Brentuximab vedotin; Rifampin	DCC0280/DCC1728
+DC005757	Nitazoxanide; Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203/DCC1302
+DC005773	Cinacalcet; Paricalcitol	DCC1437/DCC1473
+DC005774	Interferon beta 1a; Simvastatin	DCC0157/DCC1140
+DC005783	Deferasirox; Deferoxamine	DCC1384/DCC1599
+DC005784	Itraconazole; Ticlopidine	DCC1203/DCC1521
+DC005791	Methotrexate; Ocrelizumab	DCC0131/DCC0868
+DC005802	Buprenorphine; Heroin; Naloxone	DCC0236/DCC0312/DCC1590
+DC005804	Clofarabine; Cyclophosphamide; Etoposide	DCC0123/DCC0153/DCC0191
+DC005818	Leuprolide acetate; Progestrone	DCC1112/DCC1267
+DC005839	Artesunate; Azithromycin	DCC0024/DCC0464
+DC005840	Capecitabine; Cisplatin; Fluorouracil; Trastuzumab	DCC0008/DCC0117/DCC0128/DCC0295
+DC005843	Carboplatin; Etoposide; Irinotecan; Oxaliplatin	DCC0120/DCC0189/DCC0191/DCC0245
+DC005861	Abiraterone acetate; Prednisone	DCC0156/DCC0613
+DC005864	Aspirin; Niacin	DCC0152/DCC0240
+DC005871	Lithium carbonate; Riluzole	DCC0818/DCC1380
+DC005878	Naloxone; Oxycodone	DCC0112/DCC0312
+DC005894	Peginterferon alfa-2a; Ribavirin; Sofosbuvir	DCC0002/DCC0203/DCC0545
+DC005921	Nitrofurantoin; Sulfamethoxazole; Trimethoprim	DCC0093/DCC0176/DCC0266
+DC005938	Artesunate; Chloroquine	DCC0464/DCC1333
+DC005946	Clopidogrel; Zotarolimus	DCC0684/DCC1390
+DC005954	Bortezomib; Methotrexate; Tacrolimus	DCC0016/DCC0131/DCC0218
+DC005959	Gemcitabine; Tegafur	DCC0094/DCC0403
+DC005981	Ezetimibe; Niacin; Simvastatin	DCC0152/DCC0157/DCC0250
+DC005998	Bevacizumab; Capecitabine; Irinotecan	DCC0012/DCC0189/DCC0295
+DC006001	Bevacizumab; Fotemustine	DCC0012/DCC1628
+DC006002	Ciprofloxacin; Sulfamethoxazole; Trimethoprim	DCC0093/DCC0124/DCC0266
+DC006019	Losartan; Nebivolol	DCC0169/DCC1641
+DC006066	Cytarabine; Imatinib; Interferon alfa-2b	DCC0148/DCC0256/DCC1165
+DC006074	Dorzolamide; Prostaglandin; Timolol	DCC0072/DCC0219/DCC1613
+DC006079	Glimepiride; Insulin aspart; Metformin	DCC0027/DCC0057/DCC1567
+DC006083	Capecitabine; Cisplatin; Epirubicin	DCC0096/DCC0117/DCC0295
+DC006098	Basiliximab; Cyclosporine; Everolimus	DCC0011/DCC0348/DCC1149
+DC006104	Fluticasone Propionate; Montelukast	DCC0099/DCC0139
+DC006113	Etoposide; Tipifarnib	DCC0191/DCC0410
+DC006115	Cisplatin; Gefitinib; Pemetrexed	DCC0050/DCC0117/DCC0158
+DC006118	Risperidoene; Tropisetron	DCC1021/DCC1376
+DC006122	Aflibercept; Dexamethasone; Docetaxel	DCC0325/DCC0329/DCC1736
+DC006126	Sorafenib; Sunitinib	DCC0079/DCC0336
+DC006130	Cyclophosphamide; Doxorubicin; Lapatinib; Paclitaxel; Trastuzumab	DCC0008/DCC0123/DCC0259/DCC0323/DCC0332
+DC006131	Memantine; Vitamin d	DCC1182/DCC1481
+DC006144	Fenofibrate; Lovaza	DCC0276/DCC0859
+DC006145	Mycophenolate mofetil; Tacrolimus	DCC0173/DCC0218
+DC006156	Calcium; Vitamin d; Zoledronate	DCC0080/DCC1182/DCC1577
+DC006178	Exemestane; Tamoxifen	DCC0168/DCC1466
+DC006181	Lamotrigine; Paroxetine	DCC0129/DCC1367
+DC007200	Aspirin; Propoxyphene hydrochloride	DCC0160/DCC0240
+DC007201	Atropine sulfate; Difenoxin hydrochloride	DCC0135/DCC1819
+DC007202	Atropine sulfate; Edrophonium chloride	DCC0135/DCC1822
+DC007203	Atropine sulfate; Meperidine hydrochloride	DCC0135/DCC1284
+DC007204	Azatadine maleate; Pseudoephedrine sulfate	DCC0214/DCC1810
+DC007205	Azelastine hydrochloride; Fluticasone propionate	DCC0139/DCC1459
+DC007206	Azithromycin dihydrate; Trovafloxacin mesylate	DCC0024/DCC1857
+DC007208	Bacitracin zinc; Lidocaine; Neomycin sulfate; Polymyxin b sulfate	DCC0040/DCC0151/DCC0193/DCC0257
+DC007212	Betaxolol hydrochloride; Chlorthalidone	DCC0047/DCC1811
+DC007213	Betaxolol hydrochloride; Pilocarpine hydrochloride	DCC1491/DCC1811
+DC007214	Bismuth subcitrate potassium; Metronidazole; Tetracycline	DCC0187/DCC0235/DCC1010
+DC007215	Bromodiphenhydramine hydrochloride; Codeine phosphate	DCC0051/DCC1812
+DC007216	Calcium carbonate; Famotidine; Magnesium hydroxide	DCC0237/DCC1579/DCC1705
+DC007217	Calcium carbonate; Risedronate sodium	DCC1425/DCC1705
+DC007218	Calcium; meglumine; Metrizoic acid	DCC0863/DCC1577/DCC1840
+DC007219	Ceftriaxone sodium; Lidocaine	DCC0040/DCC0319
+DC007220	Chloramphenicol; Desoxyribonuclease; Fibrinolysin	DCC1813/DCC1817/DCC1827
+DC007221	Chloramphenicol; Hydrocortisone acetate	DCC0184/DCC1813
+DC007222	Chloramphenicol; Hydrocortisone acetate; Polymyxin b sulfate	DCC0184/DCC0193/DCC1813
+DC007223	Chloramphenicol; Polymyxin b sulfate	DCC0193/DCC1813
+DC007224	Chloramphenicol; Prednisolone	DCC0216/DCC1813
+DC007225	Chlordiazepoxide; Estrogens, esterified	DCC0101/DCC1824
+DC007226	Chlorhexidine gluconate; Isopropyl alcohol	DCC0224/DCC1833
+DC007227	Chlorothiazide; Reserpine	DCC1814/DCC1852
+DC007228	Chlorpheniramine maleate; Hydrocodone bitartrate; Pseudoephedrine hydrochloride	DCC0214/DCC0243/DCC0298
+DC007229	Chlorpheniramine maleate; Ibuprofen; Phenylephrine hydrochloride	DCC0075/DCC0282/DCC0298
+DC007230	Chlorpheniramine maleate; Phenylpropanolamine hydrochloride	DCC0298/DCC1845
+DC007231	Chlorpheniramine polistirex; Codeine	DCC0051/DCC0298
+DC007232	Chlorthalidone; Clonidine hydrochloride	DCC0047/DCC0136
+DC007233	Chlorthalidone; Metoprolol tartrate	DCC0036/DCC0047
+DC007234	Chlorthalidone; Reserpine	DCC0047/DCC1852
+DC006865	Bevacizumab; Docetaxel; Trastuzumab	DCC0008/DCC0012/DCC0329
+DC006882	Goserelin acetate; Tamoxifen	DCC0168/DCC1116
+DC006888	Abatacept; Methotrexate	DCC0131/DCC1564
+DC006898	Docetaxel; Vinorelbine	DCC0067/DCC0329
+DC006904	Amoxicillin; Cefotaxime; Ceftriaxone; Netilmicin; Tobramycin	DCC0172/DCC0285/DCC0319/DCC1297/DCC1453
+DC006920	Aspirin; Dexamethasone; Pomalidomide	DCC0240/DCC0325/DCC1745
+DC006957	Balapiravir; Peginterferon alfa-2a; Ribavirin	DCC0002/DCC0203/DCC0897
+DC006970	Insulin; Saxagliptin	DCC1124/DCC1680
+DC007000	Aldesleukin; Sorafenib	DCC0006/DCC0079
+DC007005	Cyclophosphamide; Pemetrexed	DCC0123/DCC0158
+DC007006	Aspirin; Atorvastatin	DCC0240/DCC0290
+DC007011	Docetaxel; Epirubicin	DCC0096/DCC0329
+DC007013	Fludrocortisone; Hydrocortisone; Insulin	DCC0184/DCC1124/DCC1354
+DC007018	Leflunomide; Methotrexate; Ocrelizumab	DCC0131/DCC0868/DCC1495
+DC007020	Amlodipine; Irbesartan	DCC0073/DCC0270
+DC007023	Artesunate; Chloroquine; Pyrimethamine; Sulfadoxine	DCC0023/DCC0339/DCC0464/DCC1333
+DC007029	Didanosine; Lamivudine; Nevirapine	DCC0030/DCC0179/DCC0228
+DC007031	Bedaquiline; PA-824	DCC0407/DCC1740
+DC007044	Bevacizumab; Enzastaurin; Fluorouracil; Leucovorin	DCC0012/DCC0128/DCC0162/DCC0634
+DC007046	Docetaxel; Epirubicin; Trastuzumab; Zoledronate	DCC0008/DCC0080/DCC0096/DCC0329
+DC007050	Interferon alfa-2a; Temsirolimus	DCC1127/DCC1678
+DC007060	Docetaxel; Gemcitabine	DCC0094/DCC0329
+DC007061	Aldesleukin; Isotretinoin; Sargramostim	DCC0006/DCC1121/DCC1461
+DC007062	Aspirin; Heparin	DCC0240/DCC0296
+DC007089	Ethambutol; Isoniazid	DCC0056/DCC0242
+DC007146	Bevacizumab; Temsirolimus	DCC0012/DCC1678
+DC007150	Morphine sulfate; Naltrexone hydrochloride	DCC0043/DCC0177
+DC007151	Amphetamine; Dextroamphetamine	DCC1194/DCC1593
+DC007152	Amlodipine; Hydrochlorothiazide; Valsartan	DCC0014/DCC0073/DCC0260
+DC007153	Amoxicillin; Clarithromycin; Omeprazole	DCC0061/DCC0285/DCC0318
+DC007154	Atorvastatin calcium; Ezetimibe	DCC0250/DCC0290/DCC1577
+DC007155	Estradiol; Norethindrone acetate	DCC0180/DCC0194
+DC007156	Metformin hydrochloride; Saxagliptin hydrochloride	DCC0057/DCC1680
+DC007157	Cobicistat; Elvitegravir; Emtricitabine; Tenofovir disoproxil fumarate	DCC0045/DCC0225/DCC0494/DCC0903
+DC007158	Aliskiren hemifumarate; Amlodipine besylate	DCC0073/DCC0331
+DC007159	Ethinyl estradiol; Norelgestromin	DCC0252/DCC1699
+DC007160	Aliskiren hemifumarate; Valsartan	DCC0014/DCC0331
+DC007161	Aliskiren hemifumarate; Amlodipine besylate; Hydrochlorothiazide	DCC0073/DCC0260/DCC0331
+DC007162	Chloroquine phosphate; Primaquine phosphate	DCC1333/DCC1493
+DC007163	Hydrochlorothiazide; moexipril hydrochloride	DCC0260/DCC1355
+DC007164	Alogliptin benzoate; Metformin hydrochloride	DCC0057/DCC0371
+DC007165	Formoterol fumarate; Mometasone furoate	DCC0255/DCC1393
+DC007166	Azilsartan medoxomil; Chlorthalidone	DCC0047/DCC1722
+DC007167	Amlodipine besylate; Hydrochlorothiazide; Olmesartan medoxomil	DCC0038/DCC0073/DCC0260
+DC007168	Alendronate sodium; Cholecalciferol	DCC0887/DCC1336
+DC007169	Dutasteride; Tamsulosin hydrochloride	DCC1361/DCC1507
+DC007170	Ampicillin sodium; Sulbactam sodium	DCC0083/DCC0893
+DC007171	Desogestrel; Ethinyl estradiol	DCC0252/DCC1241
+DC007172	Doxylamine succinate; pyridoxine hydrochloride	DCC1188/DCC1258
+DC007173	Linagliptin; Metformin hydrochloride	DCC0057/DCC0885
+DC007174	Ethinyl estradiol; Norgestrel	DCC0252/DCC1301
+DC007175	Brimonidine tartrate; Brinzolamide	DCC0106/DCC0314
+DC007176	Dextromethorphan hydrobromide; Quinidine sulfate	DCC0116/DCC0232
+DC007177	Bupivacaine hydrochloride; Lidocaine hydrochloride	DCC0040/DCC0044
+DC007178	Drospirenone; Ethinyl estradiol; Levomefolate calcium	DCC0252/DCC0343/DCC0608
+DC007179	Ethinyl estradiol; Levonorgestrel	DCC0070/DCC0252
+DC007180	Dienogest; Estradiol valerate	DCC0881/DCC1097
+DC007181	Dexamethasone sodium phosphate; Lidocaine hydrochloride	DCC0040/DCC0325
+DC007182	Phentermine hydrochloride; Topiramate	DCC0037/DCC1199
+DC007183	Fluticasone furoate; Vilanterol trifenatate	DCC0797/DCC1742
+DC007185	Bazedoxifene acetate; Estrogens, conjugated	DCC0552/DCC0665
+DC007186	Emtricitabine; Rilpivirine hydrochloride; Tenofovir disoproxil fumarate	DCC0045/DCC0225/DCC1727
+DC007187	Famotidine; Ibuprofen	DCC0237/DCC0282
+DC007188	Acetylcysteine; Isoproterenol hydrochloride	DCC1486/DCC1662
+DC007189	Acyclovir; Hydrocortisone	DCC0184/DCC0195
+DC007191	Aluminum hydroxide; Magnesium trisilicate	DCC1704/DCC1834
+DC007193	Ampicillin; Probenecid	DCC0083/DCC0272
+DC007195	Aspirin; Butalbital	DCC0031/DCC0240
+DC007196	Aspirin; Caffeine; Propoxyphene hydrochloride	DCC0021/DCC0160/DCC0240
+DC007197	Aspirin; Hydrocodone bitartrate	DCC0240/DCC0243
+DC007198	Aspirin; Pentazocine hydrochloride	DCC0163/DCC0240
+DC007199	Aspirin; Pravastatin sodium	DCC0240/DCC1191
+DC007312	Polythiazide; Prazosin hydrochloride	DCC1285/DCC1846
+DC007313	Polythiazide; Reserpine	DCC1846/DCC1852
+DC007314	Procaine hydrochloride; Tetracycline hydrochloride	DCC0187/DCC1370
+DC007315	Procaine merethoxylline; Theophylline	DCC0039/DCC1370
+DC007316	Quinethazone; Reserpine	DCC1850/DCC1852
+DC007317	Reserpine; Trichlormethiazide	DCC1852/DCC1856
+DC007318	Simvastatin; Sitagliptin phosphate	DCC0157/DCC0333
+DC007319	Sulfadiazine; Sulfamerazine	DCC1256/DCC1854
+DC007320	Sulfabenzamide; Sulfacetamide; Sulfathiazole	DCC0155/DCC1853/DCC1861
+DC007321	Sulfadiazine; Sulfamerazine; Sulfamethazine	DCC1256/DCC1854/DCC1855
+DC007322	Umeclidinium bromide; Vilanterol trifenatate	DCC0797/DCC1859
+DC007235	Clioquinol; Nystatin	DCC0159/DCC0368
+DC007236	Dalfopristin; Quinupristin	DCC1815/DCC1851
+DC007237	Deserpidine; Hydrochlorothiazide	DCC0260/DCC1816
+DC007238	Deserpidine; Methyclothiazide	DCC1816/DCC1838
+DC007239	Dexamethasone sodium phosphate; Neomycin sulfate	DCC0257/DCC0325
+DC007240	Dexamethasone; Neomycin sulfate; Polymyxin b sulfate	DCC0193/DCC0257/DCC0325
+DC007242	Dihydroergotamine mesylate; Heparin sodium; Lidocaine hydrochloride	DCC0040/DCC0296/DCC1820
+DC007243	Diltiazem malate; Enalapril maleate	DCC0064/DCC0137
+DC007245	Diphenhydramine hydrochloride; Naproxen sodium	DCC0196/DCC0289
+DC007246	Diphenhydramine hydrochloride; Pseudoephedrine hydrochloride	DCC0214/DCC0289
+DC007247	Droperidol; Fentanyl citrate	DCC0204/DCC1282
+DC007248	Epinephrine; Etidocaine hydrochloride	DCC0166/DCC1825
+DC007249	Epinephrine; Procaine hydrochloride	DCC0166/DCC1370
+DC007250	Esomeprazole magnesium; Naproxen	DCC0196/DCC1377
+DC007251	Estradiol cypionate; Medroxyprogesterone acetate	DCC0908/DCC1823
+DC007252	Estradiol cypionate; Testosterone cypionate	DCC0836/DCC1823
+DC007253	Estradiol valerate; Testosterone enanthate	DCC0836/DCC1097
+DC007254	Estrogens, conjugated; Medroxyprogesterone acetate	DCC0552/DCC0908
+DC007255	Estrogens, conjugated; Meprobamate	DCC0071/DCC0552
+DC007256	Ethinyl estradiol; Ferrous fumarate; Norethindrone	DCC0180/DCC0252/DCC1826
+DC007258	Ethinyl estradiol; Norgestimate	DCC0244/DCC0252
+DC007259	Ethynodiol diacetate; Mestranol	DCC0207/DCC0340
+DC007260	Ferrous sulfate; Folic acid	DCC0587/DCC1183
+DC007261	Fluocinolone acetonide; Neomycin sulfate	DCC0140/DCC0257
+DC007262	Fluorometholone acetate; Tobramycin	DCC0172/DCC1246
+DC007263	Fluorometholone; Sulfacetamide sodium	DCC0155/DCC1246
+DC007265	Flurandrenolide; Neomycin sulfate	DCC0257/DCC1828
+DC007266	Guanethidine monosulfate; Hydrochlorothiazide	DCC0260/DCC1829
+DC007267	Hydralazine hydrochloride; Hydrochlorothiazide	DCC0260/DCC0337
+DC007268	Hydralazine hydrochloride; Hydrochlorothiazide; Reserpine	DCC0260/DCC0337/DCC1852
+DC007270	Hydralazine hydrochloride; Reserpine	DCC0337/DCC1852
+DC007271	Hydrochlorothiazide; Labetalol hydrochloride	DCC0260/DCC1328
+DC007272	Hydrochlorothiazide; Pindolol	DCC0260/DCC1455
+DC007273	Hydrochlorothiazide; Reserpine	DCC0260/DCC1852
+DC007274	Hydrochlorothiazide; Timolol maleate	DCC0072/DCC0260
+DC007275	Hydrocodone bitartrate; Phenylpropanolamine hydrochloride	DCC0243/DCC1845
+DC007276	Hydrocodone bitartrate; Pseudoephedrine hydrochloride	DCC0214/DCC0243
+DC007277	Hydrocortisone acetate; Neomycin sulfate	DCC0184/DCC0257
+DC007281	Hydrocortisone acetate; Urea	DCC0184/DCC1860
+DC007283	Hydrocortisone; Polymyxin b sulfate	DCC0184/DCC0193
+DC007284	Hydrocortisone; Tetracycline hydrochloride	DCC0184/DCC0187
+DC007285	Hydroflumethiazide; Reserpine	DCC1830/DCC1852
+DC007286	Hydroxyamphetamine hydrobromide; Tropicamide	DCC0202/DCC1831
+DC007287	Ibuprofen; Phenylephrine hydrochloride	DCC0075/DCC0282
+DC007288	Isoproterenol hydrochloride; Phenylephrine bitartrate	DCC0075/DCC1486
+DC007290	Leuprolide acetate; Norethindrone acetate	DCC0180/DCC1112
+DC007291	Levonordefrin; Procaine hydrochloride; Propoxycaine hydrochloride	DCC0373/DCC1370/DCC1847
+DC007292	Lidocaine hydrochloride; Oxytetracycline	DCC0040/DCC0143
+DC007293	Loperamide hydrochloride; Simethicone	DCC0211/DCC0959
+DC007294	Mannitol; Sorbitol	DCC0794/DCC1381
+DC007296	Meperidine hydrochloride; Promethazine hydrochloride	DCC0287/DCC1284
+DC007297	Mequinol; Tretinoin	DCC0186/DCC1836
+DC007298	Mestranol; Norethynodrel	DCC0340/DCC1841
+DC007299	Methyclothiazide; Pargyline hydrochloride	DCC1838/DCC1842
+DC007300	Methyclothiazide; Reserpine	DCC1838/DCC1852
+DC007301	Methylprednisolone; Neomycin sulfate	DCC0257/DCC1454
+DC007302	Neomycin sulfate; Prednisolone acetate	DCC0216/DCC0257
+DC007303	Neomycin sulfate; Triamcinolone acetonide	DCC0149/DCC0257
+DC007304	Niacinamide; Pyridoxine hydrochloride; Tyrosine	DCC1188/DCC1615/DCC1858
+DC007307	Phenazopyridine hydrochloride; Sulfamethoxazole	DCC0266/DCC1844
+DC007308	Phenazopyridine hydrochloride; Sulfamethoxazole; Trimethoprim	DCC0093/DCC0266/DCC1844
+DC007309	Phenazopyridine hydrochloride; Sulfisoxazole	DCC0035/DCC1844
+DC007310	Phenylephrine hydrochloride; Pyrilamine maleate	DCC0075/DCC1849
+DC007311	Piperonyl butoxide; Pyrethrins	DCC0799/DCC1848
