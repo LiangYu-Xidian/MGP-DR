@@ -1,0 +1,31 @@
+def Interections():
+    # Generate drug_drug interactions matrix
+    M = []  
+    N = [] 
+    dic = {}  
+
+    with open('../data/dataset/Node_Codes.csv', "rt", encoding='utf-8')as csvfile:
+        reader = csv.reader(csvfile)
+        for i in reader:
+            M.append(i[0])
+            N.append(i[1])
+
+        for i in range(len(M)):
+            dic[M[i]] = N[i]
+
+    D = []
+    I = []
+
+    with open('../data/dataset/Drug_Information.csv', "rt", encoding='utf-8')as csvfile:
+        reader = csv.reader(csvfile)
+        for i in reader:
+            D.append(i[0])
+            I.append(i[1])
+
+    DDI = np.zeros((len(D), len(D)), int)
+
+    for i in range(len(D)):
+        for j in I[i].split('|'):
+            if not j.strip() == '' and j in M:
+                DDI[int(dic[D[i]]) - 1][int(dic[j]) - 1] = 1
+    return DDI

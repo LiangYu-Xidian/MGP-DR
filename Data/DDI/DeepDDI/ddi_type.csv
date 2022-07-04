@@ -1,0 +1,87 @@
+type,sentence
+1, can cause a decrease in the absorption of  resulting in a reduced serum concentration and potentially a decrease in efficacy.
+2, can cause an increase in the absorption of  resulting in an increased serum concentration and potentially a worsening of adverse effects.
+3,The absorption of  can be decreased when combined with .
+4,The bioavailability of  can be decreased when combined with .
+5,The bioavailability of  can be increased when combined with .
+6,The metabolism of  can be decreased when combined with .
+7,The metabolism of  can be increased when combined with .
+8,The protein binding of  can be decreased when combined with .
+9,The serum concentration of  can be decreased when it is combined with .
+10,The serum concentration of  can be increased when it is combined with .
+11,The serum concentration of the active metabolites of  can be increased when  is used in combination with .
+12,The serum concentration of the active metabolites of  can be reduced when  is used in combination with  resulting in a loss in efficacy.
+13,The therapeutic efficacy of  can be decreased when used in combination with .
+14,The therapeutic efficacy of  can be increased when used in combination with .
+15, may decrease the excretion rate of  which could result in a higher serum level.
+16, may increase the excretion rate of  which could result in a lower serum level and potentially a reduction in efficacy.
+17, may decrease the cardiotoxic activities of .
+18, may increase the cardiotoxic activities of .
+19, may increase the central neurotoxic activities of .
+20, may increase the hepatotoxic activities of .
+21, may increase the nephrotoxic activities of .
+22, may increase the neurotoxic activities of .
+23, may increase the ototoxic activities of .
+24, may decrease effectiveness of  as a diagnostic agent.
+25,The risk of a hypersensitivity reaction to  is increased when it is combined with .
+26,The risk or severity of adverse effects can be increased when  is combined with .
+27,The risk or severity of bleeding can be increased when  is combined with .
+28,The risk or severity of heart failure can be increased when  is combined with .
+29,The risk or severity of hyperkalemia can be increased when  is combined with .
+30,The risk or severity of hypertension can be increased when  is combined with .
+31,The risk or severity of hypotension can be increased when  is combined with .
+32,The risk or severity of QTc prolongation can be increased when  is combined with .
+33, may decrease the analgesic activities of .
+34, may decrease the anticoagulant activities of .
+35, may decrease the antihypertensive activities of .
+36, may decrease the antiplatelet activities of .
+37, may decrease the bronchodilatory activities of .
+38, may decrease the diuretic activities of .
+39, may decrease the neuromuscular blocking activities of .
+40, may decrease the sedative activities of .
+41, may decrease the stimulatory activities of .
+42, may decrease the vasoconstricting activities of .
+43, may increase the adverse neuromuscular activities of .
+44, may increase the analgesic activities of .
+45, may increase the anticholinergic activities of .
+46, may increase the anticoagulant activities of .
+47, may increase the antihypertensive activities of .
+48, may increase the antiplatelet activities of .
+49, may increase the antipsychotic activities of .
+50, may increase the arrhythmogenic activities of .
+51, may increase the atrioventricular blocking (AV block) activities of .
+52, may increase the bradycardic activities of .
+53, may increase the bronchoconstrictory activities of .
+54, may increase the central nervous system depressant (CNS depressant) activities of .
+55, may increase the central nervous system depressant (CNS depressant) and hypertensive activities of .
+56, may increase the constipating activities of .
+57, may increase the dermatologic adverse activities of .
+58, may increase the fluid retaining activities of .
+59, may increase the hypercalcemic activities of .
+60, may increase the hyperglycemic activities of .
+61, may increase the hyperkalemic activities of .
+62, may increase the hypertensive activities of .
+63, may increase the hypocalcemic activities of .
+64, may increase the hypoglycemic activities of .
+65, may increase the hypokalemic activities of .
+66, may increase the hyponatremic activities of .
+67, may increase the hypotensive activities of .
+68, may increase the hypotensive and central nervous system depressant (CNS depressant) activities of .
+69, may increase the immunosuppressive activities of .
+70, may increase the myelosuppressive activities of .
+71, may increase the myopathic rhabdomyolysis activities of .
+72, may increase the neuroexcitatory activities of .
+73, may increase the neuromuscular blocking activities of .
+74, may increase the orthostatic hypotensive activities of .
+75, may increase the photosensitizing activities of .
+76, may increase the QTc-prolonging activities of .
+77, may increase the respiratory depressant activities of .
+78, may increase the sedative activities of .
+79, may increase the serotonergic activities of .
+80, may increase the stimulatory activities of .
+81, may increase the tachycardic activities of .
+82, may increase the thrombogenic activities of .
+83, may increase the ulcerogenic activities of .
+84, may increase the vasoconstricting activities of .
+85, may increase the vasodilatory activities of .
+86, may increase the vasopressor activities of .
